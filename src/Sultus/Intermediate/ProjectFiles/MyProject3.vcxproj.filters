@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject3.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DEDC6DF9-4BA4-4219-80B7-457E2B89A0CD}</UniqueIdentifier>
+      <UniqueIdentifier>{58B8B01D-25BE-4D1D-9E26-FFFADAAA0449}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject3.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\MyProject3Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\Sultus.uproject" />
     <Filter Include="Config">
-      <UniqueIdentifier>{DB2D3F01-008D-4D1B-84A5-CF96C5960413}</UniqueIdentifier>
+      <UniqueIdentifier>{ED03E130-0FC1-4469-ACB9-2D8D51B4F62C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MyProject3">
-      <UniqueIdentifier>{B929556C-C3A5-443E-A743-D6632C235605}</UniqueIdentifier>
+      <UniqueIdentifier>{0B15AFFB-9FF4-4E2C-9F8D-8065C4A48BA7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject3\MyProject3.Build.cs">
       <Filter>Source\MyProject3</Filter>
@@ -52,6 +53,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\MyProject3\MyProject3GameMode.h">
       <Filter>Source\MyProject3</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject3\Private">
+      <UniqueIdentifier>{F5DB20A3-6A54-4DE5-A8A6-05491DDD9417}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject3\Private\MyCharacter.cpp">
+      <Filter>Source\MyProject3\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject3\Public">
+      <UniqueIdentifier>{D5C92E2A-D045-4F77-9030-5FE7CD4131A0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyProject3\Public\MyCharacter.h">
+      <Filter>Source\MyProject3\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
