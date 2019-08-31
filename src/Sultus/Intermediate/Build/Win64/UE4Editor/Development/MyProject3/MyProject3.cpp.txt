@@ -1,2 +1,2 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\Definitions.MyProject3.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\source\myproject3\MyProject3.h
+C:\Users\bjlin\source\repos\sultus\src\Sultus\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\Definitions.MyProject3.h
+c:\users\bjlin\source\repos\sultus\src\sultus\source\myproject3\MyProject3.h
