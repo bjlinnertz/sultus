@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sultus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F26C33CE-048F-4A2D-9F95-0AB38D520747}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sultus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SultusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{754CC7CE-D250-4A55-A8CB-A900A7CCE099}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sultus">
+      <UniqueIdentifier>{EC9DD5AB-4462-4023-B5E2-1B1ACDB2F813}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sultus\Sultus.Build.cs">
+      <Filter>Source\Sultus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sultus\Sultus.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\Sultus.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusCharacter.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusCharacter.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusGameMode.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusGameMode.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusHUD.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusHUD.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusProjectile.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusProjectile.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
