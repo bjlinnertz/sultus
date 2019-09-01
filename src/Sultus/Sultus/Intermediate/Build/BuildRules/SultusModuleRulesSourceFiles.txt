@@ -1,3 +1,0 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Source\Sultus\Sultus.Build.cs
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Source\Sultus.Target.cs
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Source\SultusEditor.Target.cs
