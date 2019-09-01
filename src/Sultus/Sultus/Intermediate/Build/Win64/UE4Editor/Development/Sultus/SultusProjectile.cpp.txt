@@ -1,11 +1,11 @@
-C:\Users\bjlin\source\repos\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
-c:\users\bjlin\source\repos\sultus\src\sultus\sultus\source\sultus\SultusProjectile.h
-C:\Users\bjlin\source\repos\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusProjectile.generated.h
-D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
-D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
-D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
-D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
-D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
-D:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-D:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
+c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus\source\sultus\SultusProjectile.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

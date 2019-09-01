@@ -11,18 +11,24 @@
 #endif
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeSultus_init() {}
+	SULTUS_API UFunction* Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature();
+	SULTUS_API UFunction* Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_Sultus()
 	{
 		static UPackage* ReturnPackage = nullptr;
 		if (!ReturnPackage)
 		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature,
+			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Sultus",
-				nullptr,
-				0,
+				SingletonFuncArray,
+				ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x0ECC725A,
-				0xBD5DE8AB,
+				0x41807052,
+				0x787A78CE,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
