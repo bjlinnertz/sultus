@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sultus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C989FF5E-75B0-4B26-B182-D5CBCC35CD23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sultus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SultusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8B866EAB-5EF2-42A7-B139-8D5CF10D43CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sultus">
+      <UniqueIdentifier>{29A940CE-306B-49E0-8ED0-5A3D725EA4C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sultus\Sultus.Build.cs">
+      <Filter>Source\Sultus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sultus\Sultus.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\Sultus.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusCharacter.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusCharacter.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusGameMode.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusGameMode.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusHUD.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusHUD.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sultus\SultusProjectile.cpp">
+      <Filter>Source\Sultus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sultus\SultusProjectile.h">
+      <Filter>Source\Sultus</Filter>
+    </ClInclude>
+    <Filter Include="Source\Sultus\Private">
+      <UniqueIdentifier>{F6AF0109-4BB5-4E14-B125-5394A733703D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sultus\Private\AttributeSet_Base.cpp">
+      <Filter>Source\Sultus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Sultus\Private\Character_Base.cpp">
+      <Filter>Source\Sultus\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Sultus\Private\PlayerController_Base.cpp">
+      <Filter>Source\Sultus\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Sultus\Public">
+      <UniqueIdentifier>{F55413C6-2C2D-47DE-8C5E-BCEE7E4DB163}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Sultus\Public\AttributeSet_Base.h">
+      <Filter>Source\Sultus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Sultus\Public\Character_Base.h">
+      <Filter>Source\Sultus\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Sultus\Public\PlayerController_Base.h">
+      <Filter>Source\Sultus\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
