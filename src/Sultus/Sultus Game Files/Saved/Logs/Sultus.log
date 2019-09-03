@@ -1468,3 +1468,280 @@ Script call stack:
 [2019.09.03-01.14.41:697][623]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap_BuiltData59B755DC43C800E2B96CC092A43319AC.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2019.09.03-01.14.50:790][834]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
 [2019.09.03-01.14.50:997][834]EditorErrors: Warning: No assets to check in!
+[2019.09.03-02.14.43:937][514]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.03-02.15.07:952][940]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_DashCoolDownDD35B08643A26F251DA7F8A77BBE40DE.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_DashCoolDown.uasset'
+[2019.09.03-02.15.20:612][307]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.03-02.15.35:928][180]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2019.09.03-02.15.36:002][180]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_CoolDown4E097CF04063A28F85A9DFA653402311.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_CoolDown.uasset'
+[2019.09.03-02.15.36:162][180]LogMetaData: Removing '/Game/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_CoolDown.SKEL_GE_Dash_CoolDown_C' ref from Metadata '/Game/Blueprints/Character/GameplayAbilities/Dash/GE_DashCoolDown.PackageMetaData'
+[2019.09.03-02.15.36:162][180]LogMetaData: Removing '/Game/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_CoolDown.GE_Dash_CoolDown_C' ref from Metadata '/Game/Blueprints/Character/GameplayAbilities/Dash/GE_DashCoolDown.PackageMetaData'
+[2019.09.03-02.15.36:205][180]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_CoolDownEF8402F04B2AAF1A9785599D49D13AD8.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_CoolDown.uasset'
+[2019.09.03-02.15.36:232][180]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_DashCoolDown7E83B0D44297B323726D89A58C4B06CC.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_DashCoolDown.uasset'
+[2019.09.03-02.15.38:836][319]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Damage.GE_Dash_Damage
+[2019.09.03-02.16.53:661][774]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2019.09.03-02.16.53:661][774]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2019.09.03-02.16.55:651][894]BlueprintLog: New page: Compile GE_Dash_Damage
+[2019.09.03-02.16.55:708][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.03-02.16.55:806][894]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_DamageA5F0260D4BD899C6058D868DA6B57017.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Damage.uasset'
+[2019.09.03-02.17.07:359][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_CoolDown.GE_Dash_CoolDown
+[2019.09.03-02.17.59:957][685]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2019.09.03-02.17.59:957][685]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2019.09.03-02.18.02:279][825]BlueprintLog: New page: Compile GE_Dash_CoolDown
+[2019.09.03-02.18.02:363][825]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.09.03-02.18.02:465][825]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_CoolDownD4F3C00A4031F6F04D1DB0996D53FE60.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_CoolDown.uasset'
+[2019.09.03-02.18.18:827][800]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.03-02.19.22:361][244]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.09.03-02.19.22:361][244]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.083
+[2019.09.03-02.19.22:363][244]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/GameplayAbilities/Dash/GA_Dash] ([1] browsable assets)...
+[2019.09.03-02.19.22:363][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/GameplayAbilities/Dash/GA_Dash]
+[2019.09.03-02.19.22:394][244]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GA_Dash_Auto152AFFE964C89DCECA543B8B6A02B591C.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/Autosaves/Game/Blueprints/Character/GameplayAbilities/Dash/GA_Dash_Auto1.uasset'
+[2019.09.03-02.19.22:396][244]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.09.03-02.21.54:564][310]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.03-02.22.08:673][140]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GA_DashEA952A1C4ED378BD6BEBC7B48C13CEFC.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GA_Dash.uasset'
+[2019.09.03-02.22.08:694][140]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_Cost49DBE6F04DA851819B1AFC83993E1DE7.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Cost.uasset'
+[2019.09.03-02.22.09:921][205]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Cost.GE_Dash_Cost
+[2019.09.03-02.23.13:661][  8]BlueprintLog: New page: Compile GE_Dash_Cost
+[2019.09.03-02.23.13:708][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.09.03-02.23.13:808][  8]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_Cost0D83A406403792FC135A8AA5199D6B23.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Cost.uasset'
+[2019.09.03-02.23.23:647][596]BlueprintLog: New page: Compile GE_Dash_Cost
+[2019.09.03-02.23.23:693][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.09.03-02.23.23:796][596]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_CostC787F96A4436AB9223FC24B4B8C4DE30.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Cost.uasset'
+[2019.09.03-02.23.41:404][641]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2019.09.03-02.23.41:404][641]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2019.09.03-02.23.43:076][742]BlueprintLog: New page: Compile GE_Dash_Cost
+[2019.09.03-02.23.43:123][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.09.03-02.23.43:227][742]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GE_Dash_Cost11409FA049338B7F4572A5A00F25F22B.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GE_Dash_Cost.uasset'
+[2019.09.03-02.23.48:161][ 33]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.03-02.23.51:648][241]BlueprintLog: New page: Compile GA_Dash
+[2019.09.03-02.23.51:699][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.09.03-02.23.51:814][241]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GA_DashC11916F7410C7F088144E1BDAE6B12C3.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GA_Dash.uasset'
+[2019.09.03-02.24.29:861][480]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/MI_Quintessence7084C6C64400D8670E01CC8B22BD2085.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/UI/MI_Quintessence.uasset'
+[2019.09.03-02.24.30:009][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MI_Mana" FILE="../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/UI/MI_Mana.uasset" SILENT=true
+[2019.09.03-02.24.30:022][480]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/MI_Mana73D0533A47E53B26279415BC96450225.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/UI/MI_Mana.uasset'
+[2019.09.03-02.24.32:056][584]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/UI/MI_Quintessence.MI_Quintessence
+[2019.09.03-02.24.40:239][ 48]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/PrimaryUI.PrimaryUI
+[2019.09.03-02.24.54:194][862]BlueprintLog: New page: Compile PrimaryUI
+[2019.09.03-02.24.54:256][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.09.03-02.24.54:387][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PrimaryUI" FILE="../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/UI/PrimaryUI.uasset" SILENT=true
+[2019.09.03-02.24.54:416][862]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/PrimaryUIA40F151E438D9965DB14EDA44F833635.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/UI/PrimaryUI.uasset'
+[2019.09.03-02.25.07:303][625]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-02.25.07:326][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.25.07:326][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-02.25.07:326][625]PIE: New page: PIE session: FirstPersonExampleMap (Sep 2, 2019, 4:25:07 PM)
+[2019.09.03-02.25.07:326][625]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.03-02.25.07:340][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014422s)
+[2019.09.03-02.25.07:341][625]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.03-02.25.07:341][625]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.09.03-02.25.07:341][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015372s)
+[2019.09.03-02.25.07:386][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.03-02.25.07:394][625]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.03-02.25.07:404][625]LogInit: FAudioDevice initialized.
+[2019.09.03-02.25.07:432][625]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.03-02.25.07:439][625]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.02-21.25.07
+[2019.09.03-02.25.07:440][625]LogWorld: Bringing up level for play took: 0.006831
+[2019.09.03-02.25.07:460][625]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.854
+[2019.09.03-02.25.07:460][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.25.08:502][687]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.08:503][687]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.08:503][687]LogScript: Warning: Accessed None
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.08:503][687]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.14:586][ 52]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.14:586][ 52]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.14:586][ 52]LogScript: Warning: Accessed None
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.14:586][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.16:353][158]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.16:353][158]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.16:353][158]LogScript: Warning: Accessed None
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.16:353][158]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.16:353][158]LogTemp: Warning: Health is 200.000000
+[2019.09.03-02.25.23:036][559]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.23:036][559]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.23:036][559]LogScript: Warning: Accessed None
+	BP_PlayerCharacter_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/Blueprints/Character/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter:01CB
+[2019.09.03-02.25.23:037][559]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_PlayerCharacter Function:  Execute Ubergraph BP Player Character Graph:  EventGraph Node:  Set Percentage
+[2019.09.03-02.25.23:187][568]LogTemp: Warning: Health is 180.000000
+[2019.09.03-02.25.23:904][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.25.23:904][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.25.23:939][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-02.25.23:939][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.25.23:986][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.25.23:992][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.09.03-02.25.24:002][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-02.25.24:059][612]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.09.03-02.26.04:452][ 31]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.09.03-02.26.04:729][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.09.03-02.26.04:918][ 31]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/BP_PlayerCharacterF9EF954241FB040FA95F01861263B962.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/BP_PlayerCharacter.uasset'
+[2019.09.03-02.26.38:860][973]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-02.26.38:864][973]LogSlate: Window 'Message Log' being destroyed
+[2019.09.03-02.26.45:110][348]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-02.26.45:131][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.45:131][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-02.26.45:131][348]PIE: New page: PIE session: FirstPersonExampleMap (Sep 2, 2019, 4:26:45 PM)
+[2019.09.03-02.26.45:131][348]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.03-02.26.45:142][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010117s)
+[2019.09.03-02.26.45:142][348]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.03-02.26.45:142][348]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2019.09.03-02.26.45:142][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010797s)
+[2019.09.03-02.26.45:186][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.09.03-02.26.45:193][348]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.03-02.26.45:201][348]LogInit: FAudioDevice initialized.
+[2019.09.03-02.26.45:228][348]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.03-02.26.45:235][348]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.02-21.26.45
+[2019.09.03-02.26.45:236][348]LogWorld: Bringing up level for play took: 0.007091
+[2019.09.03-02.26.45:255][348]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.65
+[2019.09.03-02.26.45:256][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.46:348][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.46:348][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.26.46:381][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-02.26.46:381][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.46:426][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.26.46:431][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.09.03-02.26.46:475][414]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.09.03-02.26.48:038][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-02.26.48:238][519]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-02.26.48:268][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.48:268][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-02.26.48:268][519]PIE: New page: PIE session: FirstPersonExampleMap (Sep 2, 2019, 4:26:48 PM)
+[2019.09.03-02.26.48:268][519]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.03-02.26.48:282][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013283s)
+[2019.09.03-02.26.48:282][519]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.03-02.26.48:283][519]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.09.03-02.26.48:283][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014187s)
+[2019.09.03-02.26.48:322][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.09.03-02.26.48:330][519]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.03-02.26.48:338][519]LogInit: FAudioDevice initialized.
+[2019.09.03-02.26.48:366][519]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.03-02.26.48:373][519]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.02-21.26.48
+[2019.09.03-02.26.48:374][519]LogWorld: Bringing up level for play took: 0.007124
+[2019.09.03-02.26.48:394][519]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.213
+[2019.09.03-02.26.48:394][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.50:369][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.50:369][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.26.50:400][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-02.26.50:401][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.50:443][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.26.50:448][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.09.03-02.26.50:486][638]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.09.03-02.26.52:090][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-02.26.52:291][745]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-02.26.52:311][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.52:311][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-02.26.52:311][745]PIE: New page: PIE session: FirstPersonExampleMap (Sep 2, 2019, 4:26:52 PM)
+[2019.09.03-02.26.52:311][745]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.03-02.26.52:321][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010074s)
+[2019.09.03-02.26.52:322][745]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.03-02.26.52:322][745]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.09.03-02.26.52:322][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010849s)
+[2019.09.03-02.26.52:362][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.09.03-02.26.52:369][745]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.03-02.26.52:377][745]LogInit: FAudioDevice initialized.
+[2019.09.03-02.26.52:408][745]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.03-02.26.52:415][745]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.02-21.26.52
+[2019.09.03-02.26.52:415][745]LogWorld: Bringing up level for play took: 0.006615
+[2019.09.03-02.26.52:434][745]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.171
+[2019.09.03-02.26.52:434][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.26.56:762][  4]LogTemp: Warning: Health is 200.000000
+[2019.09.03-02.27.10:380][821]LogTemp: Warning: Health is 180.000000
+[2019.09.03-02.27.11:396][882]LogTemp: Warning: Health is 180.000000
+[2019.09.03-02.27.11:447][885]LogTemp: Warning: Health is 160.000000
+[2019.09.03-02.27.12:481][947]LogTemp: Warning: Health is 160.000000
+[2019.09.03-02.27.12:513][949]LogTemp: Warning: Health is 140.000000
+[2019.09.03-02.27.12:798][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.27.12:798][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.27.12:828][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-02.27.12:829][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.27.12:873][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.27.12:879][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.03-02.27.12:926][967]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.09.03-02.27.14:663][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-02.27.15:008][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.09.03-02.27.15:284][ 78]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap265457CF4DCB687AC7F3B6AD435B3C4F.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.09.03-02.27.16:070][ 78]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap_BuiltData249D8307441CD163FCC7AC84419095C4.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.09.03-02.29.52:914][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/BP_Enemy.BP_Enemy
+[2019.09.03-02.30.27:715][543]BlueprintLog: New page: Compile BP_Enemy
+[2019.09.03-02.30.27:990][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.09.03-02.30.28:182][543]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/BP_Enemy3F7F710640B690355E076D8D99DFBAB6.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/BP_Enemy.uasset'
+[2019.09.03-02.30.30:247][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.09.03-02.30.30:544][654]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap23C45908416859E796116E8B2A226BC6.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.09.03-02.30.31:412][654]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap_BuiltData7977BB1D43C44850A2C7DE8C0D91A402.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.09.03-02.30.32:100][689]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-02.30.32:123][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.30.32:123][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-02.30.32:123][689]PIE: New page: PIE session: FirstPersonExampleMap (Sep 2, 2019, 4:30:32 PM)
+[2019.09.03-02.30.32:123][689]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.03-02.30.32:135][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011211s)
+[2019.09.03-02.30.32:135][689]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.03-02.30.32:135][689]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.09.03-02.30.32:135][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011891s)
+[2019.09.03-02.30.32:170][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.09.03-02.30.32:177][689]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.03-02.30.32:184][689]LogInit: FAudioDevice initialized.
+[2019.09.03-02.30.32:214][689]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.03-02.30.32:221][689]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.02-21.30.32
+[2019.09.03-02.30.32:221][689]LogWorld: Bringing up level for play took: 0.006176
+[2019.09.03-02.30.32:240][689]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.366
+[2019.09.03-02.30.32:240][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.30.33:895][788]LogTemp: Warning: Health is 180.000000
+[2019.09.03-02.30.35:928][910]LogTemp: Warning: Health is 160.000000
+[2019.09.03-02.30.37:462][  2]LogTemp: Warning: Health is 180.000000
+[2019.09.03-02.30.38:113][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.30.38:113][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.30.38:143][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-02.30.38:144][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.30.38:191][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.30.38:196][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.09.03-02.30.38:241][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.09.03-02.31.30:537][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.03-02.31.37:847][ 66]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/GameplayAbilities/Melee/GA_Melee.GA_Melee
+[2019.09.03-02.32.07:152][795]BlueprintLog: New page: Compile GA_Melee
+[2019.09.03-02.32.07:202][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.09.03-02.32.07:332][795]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GA_Melee8129E2AA4727DBCDA28AE0B76CF1541B.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Melee/GA_Melee.uasset'
+[2019.09.03-02.32.21:950][666]LogAssetEditorManager: Opening Asset editor for GameplayAbilityBlueprint /Game/Blueprints/Character/GameplayAbilities/Dash/GA_Dash.GA_Dash
+[2019.09.03-02.33.54:146][166]LogEditorTransaction: Undo Add Node
+[2019.09.03-02.34.34:482][578]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/BP_Character_Base.BP_Character_Base
+[2019.09.03-02.34.52:816][659]Cmd: TRANSACTION UNDO
+[2019.09.03-02.34.52:816][659]LogEditorTransaction: Undo Add Node
+[2019.09.03-02.35.05:315][408]BlueprintLog: New page: Compile GA_Dash
+[2019.09.03-02.35.05:363][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.09.03-02.35.05:487][408]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/GA_Dash0CD7AF754EE76E23300A1C880ACECFBC.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/GameplayAbilities/Dash/GA_Dash.uasset'
+[2019.09.03-02.35.07:197][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-02.35.07:230][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.35.07:231][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-02.35.07:231][509]PIE: New page: PIE session: FirstPersonExampleMap (Sep 2, 2019, 4:35:07 PM)
+[2019.09.03-02.35.07:231][509]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.03-02.35.07:246][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015096s)
+[2019.09.03-02.35.07:247][509]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.03-02.35.07:247][509]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2019.09.03-02.35.07:247][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016016s)
+[2019.09.03-02.35.07:293][509]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.09.03-02.35.07:301][509]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.03-02.35.07:308][509]LogInit: FAudioDevice initialized.
+[2019.09.03-02.35.07:339][509]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.03-02.35.07:346][509]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.09.02-21.35.07
+[2019.09.03-02.35.07:347][509]LogWorld: Bringing up level for play took: 0.007033
+[2019.09.03-02.35.07:366][509]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.76
+[2019.09.03-02.35.07:367][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.35.11:423][752]LogTemp: Warning: Health is 180.000000
+[2019.09.03-02.35.13:173][857]LogTemp: Warning: Health is 200.000000
+[2019.09.03-02.35.17:115][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.35.17:116][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.35.17:158][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-02.35.17:159][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.03-02.35.17:206][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-02.35.17:212][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.09.03-02.35.17:250][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_45
