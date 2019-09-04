@@ -22,7 +22,9 @@ ACharacter_Base::ACharacter_Base()
 void ACharacter_Base::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	AttributeSetBaseComp->OnHealthChange.AddDynamic(this, &ACharacter_Base::OnHealthChange);
+	AttributeSetBaseComp->OnQuintessenceChange.AddDynamic(this, &ACharacter_Base::OnManaChange);
+	AutoDetermineTeamIdByControllerType();
 }
 
 // Called every frame
