@@ -1,0 +1,2 @@
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
+c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\Sultus.h

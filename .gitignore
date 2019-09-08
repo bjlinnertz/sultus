@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#Visual Studio
+
+.vs/
+/src/Sultus/Sultus/.vs/Sultus/v15
+/src/Sultus/Sultus/.vs/Sultus/v15

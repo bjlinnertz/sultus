@@ -1,9 +1,0 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Intermediate\Build\Win64\UE4Editor\Development\MyProject3\Definitions.MyProject3.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Source\MyProject3/MyProject3Character.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\intermediate\build\win64\ue4editor\inc\myproject3\MyProject3Character.generated.h
