@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASultusGameMode, 179032772);
+	IMPLEMENT_CLASS(ASultusGameMode, 2586341413);
 	template<> SULTUS_API UClass* StaticClass<ASultusGameMode>()
 	{
 		return ASultusGameMode::StaticClass();

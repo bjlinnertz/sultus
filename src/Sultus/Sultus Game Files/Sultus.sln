@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.25807.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{B8DA4AD2-18B1-4F39-AC28-4428EF32BB86}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{A2513734-AEE6-44EF-8416-DB9A802D43BB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{11426CF6-659D-4A11-810D-CC99B1F936F4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{5C170B84-1786-452E-858D-8AFD000CAEA4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{9AEADD8D-3A5F-4929-8F83-21B08C4D6CF9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sultus", "Intermediate\ProjectFiles\Sultus.vcxproj", "{B4762DA9-320C-4F97-B90F-C02C061F4BA1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{293897C6-52B2-45B8-81AA-B6F5FEEFE273}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualizers", "Visualizers", "{3E334A38-CE5B-47B3-B68E-95491DE1F03E}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_4.22\Engine\Extras\VisualStudioDebugging\UE4.natvis = ..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_4.22\Engine\Extras\VisualStudioDebugging\UE4.natvis
+		..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_4.23\Engine\Extras\VisualStudioDebugging\UE4.natvis = ..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_4.23\Engine\Extras\VisualStudioDebugging\UE4.natvis
 	EndProjectSection
 EndProject
 Global
@@ -81,7 +81,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{9AEADD8D-3A5F-4929-8F83-21B08C4D6CF9} = {B8DA4AD2-18B1-4F39-AC28-4428EF32BB86}
-		{B4762DA9-320C-4F97-B90F-C02C061F4BA1} = {11426CF6-659D-4A11-810D-CC99B1F936F4}
+		{9AEADD8D-3A5F-4929-8F83-21B08C4D6CF9} = {A2513734-AEE6-44EF-8416-DB9A802D43BB}
+		{B4762DA9-320C-4F97-B90F-C02C061F4BA1} = {5C170B84-1786-452E-858D-8AFD000CAEA4}
 	EndGlobalSection
 EndGlobal

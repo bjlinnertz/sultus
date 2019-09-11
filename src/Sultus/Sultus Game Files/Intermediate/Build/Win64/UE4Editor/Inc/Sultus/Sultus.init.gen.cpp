@@ -27,7 +27,7 @@ void EmptyLinkFunctionForGeneratedCodeSultus_init() {}
 				SingletonFuncArray,
 				ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x41807052,
+				0xDDD3FDEC,
 				0x787A78CE,
 				METADATA_PARAMS(nullptr, 0)
 			};
