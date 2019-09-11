@@ -92,11 +92,12 @@ void EmptyLinkFunctionForGeneratedCodeSultusProjectile() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "/** called when projectile hits something */" },
 		{ "ModuleRelativePath", "SultusProjectile.h" },
 		{ "ToolTip", "called when projectile hits something" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASultusProjectile, nullptr, "OnHit", sizeof(SultusProjectile_eventOnHit_Parms), Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C20401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASultusProjectile, nullptr, "OnHit", nullptr, nullptr, sizeof(SultusProjectile_eventOnHit_Parms), Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00C20401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ASultusProjectile_OnHit_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ASultusProjectile_OnHit()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -134,7 +135,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusProjectile() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_Sultus,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ASultusProjectile_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_ASultusProjectile_OnHit, "OnHit" }, // 2997137085
+		{ &Z_Construct_UFunction_ASultusProjectile_OnHit, "OnHit" }, // 2386255081
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusProjectile_Statics::Class_MetaDataParams[] = {
@@ -146,6 +147,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusProjectile() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusProjectile_Statics::NewProp_ProjectileMovement_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Movement" },
+		{ "Comment", "/** Projectile movement component */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusProjectile.h" },
 		{ "ToolTip", "Projectile movement component" },
@@ -155,6 +157,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusProjectile() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusProjectile_Statics::NewProp_CollisionComp_MetaData[] = {
 		{ "Category", "Projectile" },
+		{ "Comment", "/** Sphere collision component */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusProjectile.h" },
 		{ "ToolTip", "Sphere collision component" },
@@ -192,7 +195,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusProjectile() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASultusProjectile, 3174773410);
+	IMPLEMENT_CLASS(ASultusProjectile, 289519450);
 	template<> SULTUS_API UClass* StaticClass<ASultusProjectile>()
 	{
 		return ASultusProjectile::StaticClass();

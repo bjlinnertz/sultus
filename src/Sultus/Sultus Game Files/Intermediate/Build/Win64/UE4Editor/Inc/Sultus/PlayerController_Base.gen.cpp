@@ -40,6 +40,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerController_Base() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerController_Base_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "PlayerController_Base.h" },
 		{ "ModuleRelativePath", "Public/PlayerController_Base.h" },
@@ -72,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerController_Base() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayerController_Base, 1582850905);
+	IMPLEMENT_CLASS(APlayerController_Base, 3378770324);
 	template<> SULTUS_API UClass* StaticClass<APlayerController_Base>()
 	{
 		return APlayerController_Base::StaticClass();

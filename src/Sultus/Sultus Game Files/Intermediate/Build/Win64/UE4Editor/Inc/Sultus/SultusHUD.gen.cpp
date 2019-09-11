@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusHUD() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASultusHUD, 4269069859);
+	IMPLEMENT_CLASS(ASultusHUD, 1430627520);
 	template<> SULTUS_API UClass* StaticClass<ASultusHUD>()
 	{
 		return ASultusHUD::StaticClass();

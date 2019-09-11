@@ -90,7 +90,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "AcquireAbility", sizeof(Character_Base_eventAcquireAbility_Parms), Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "AcquireAbility", nullptr, nullptr, sizeof(Character_Base_eventAcquireAbility_Parms), Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_AcquireAbility()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -123,7 +123,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "AddGameplayTag", sizeof(Character_Base_eventAddGameplayTag_Parms), Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "AddGameplayTag", nullptr, nullptr, sizeof(Character_Base_eventAddGameplayTag_Parms), Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AddGameplayTag_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_AddGameplayTag()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -147,7 +147,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_BP_Die_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "BP_Die", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_BP_Die_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_Die_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_BP_Die_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "BP_Die", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_BP_Die_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_Die_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_BP_Die()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -180,7 +180,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "BP_OnHealthChange", sizeof(Character_Base_eventBP_OnHealthChange_Parms), Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "BP_OnHealthChange", nullptr, nullptr, sizeof(Character_Base_eventBP_OnHealthChange_Parms), Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -213,7 +213,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "BP_OnManaChange", sizeof(Character_Base_eventBP_OnManaChange_Parms), Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "BP_OnManaChange", nullptr, nullptr, sizeof(Character_Base_eventBP_OnManaChange_Parms), Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -255,7 +255,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "IsOtherHostile", sizeof(Character_Base_eventIsOtherHostile_Parms), Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "IsOtherHostile", nullptr, nullptr, sizeof(Character_Base_eventIsOtherHostile_Parms), Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_IsOtherHostile_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_IsOtherHostile()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -292,7 +292,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "OnHealthChange", sizeof(Character_Base_eventOnHealthChange_Parms), Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "OnHealthChange", nullptr, nullptr, sizeof(Character_Base_eventOnHealthChange_Parms), Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnHealthChange_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_OnHealthChange()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -329,7 +329,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "OnManaChange", sizeof(Character_Base_eventOnManaChange_Parms), Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "OnManaChange", nullptr, nullptr, sizeof(Character_Base_eventOnManaChange_Parms), Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_OnManaChange_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_OnManaChange()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -362,7 +362,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		{ "ModuleRelativePath", "Public/Character_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "RemoveGameplayTag", sizeof(Character_Base_eventRemoveGameplayTag_Parms), Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "RemoveGameplayTag", nullptr, nullptr, sizeof(Character_Base_eventRemoveGameplayTag_Parms), Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -405,15 +405,15 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_Sultus,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ACharacter_Base_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_ACharacter_Base_AcquireAbility, "AcquireAbility" }, // 1192884769
-		{ &Z_Construct_UFunction_ACharacter_Base_AddGameplayTag, "AddGameplayTag" }, // 3105116560
-		{ &Z_Construct_UFunction_ACharacter_Base_BP_Die, "BP_Die" }, // 1082730073
-		{ &Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange, "BP_OnHealthChange" }, // 1941694251
-		{ &Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange, "BP_OnManaChange" }, // 1061903844
-		{ &Z_Construct_UFunction_ACharacter_Base_IsOtherHostile, "IsOtherHostile" }, // 1534541563
-		{ &Z_Construct_UFunction_ACharacter_Base_OnHealthChange, "OnHealthChange" }, // 3493261137
-		{ &Z_Construct_UFunction_ACharacter_Base_OnManaChange, "OnManaChange" }, // 153952313
-		{ &Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag, "RemoveGameplayTag" }, // 874633623
+		{ &Z_Construct_UFunction_ACharacter_Base_AcquireAbility, "AcquireAbility" }, // 3856202159
+		{ &Z_Construct_UFunction_ACharacter_Base_AddGameplayTag, "AddGameplayTag" }, // 2967400185
+		{ &Z_Construct_UFunction_ACharacter_Base_BP_Die, "BP_Die" }, // 1749719291
+		{ &Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange, "BP_OnHealthChange" }, // 15739272
+		{ &Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange, "BP_OnManaChange" }, // 3502558414
+		{ &Z_Construct_UFunction_ACharacter_Base_IsOtherHostile, "IsOtherHostile" }, // 342507752
+		{ &Z_Construct_UFunction_ACharacter_Base_OnHealthChange, "OnHealthChange" }, // 3579144390
+		{ &Z_Construct_UFunction_ACharacter_Base_OnManaChange, "OnManaChange" }, // 1432699972
+		{ &Z_Construct_UFunction_ACharacter_Base_RemoveGameplayTag, "RemoveGameplayTag" }, // 722904835
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACharacter_Base_Statics::Class_MetaDataParams[] = {
@@ -480,7 +480,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACharacter_Base, 1395831304);
+	IMPLEMENT_CLASS(ACharacter_Base, 2105769371);
 	template<> SULTUS_API UClass* StaticClass<ACharacter_Base>()
 	{
 		return ACharacter_Base::StaticClass();
