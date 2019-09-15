@@ -119,6 +119,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_bUsingMotionControllers_MetaData[] = {
 		{ "Category", "Gameplay" },
+		{ "Comment", "/** Whether to use motion controller location for aiming. */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Whether to use motion controller location for aiming." },
 	};
@@ -131,6 +132,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_FireAnimation_MetaData[] = {
 		{ "Category", "Gameplay" },
+		{ "Comment", "/** AnimMontage to play each time we fire */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "AnimMontage to play each time we fire" },
 	};
@@ -139,6 +141,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_FireSound_MetaData[] = {
 		{ "Category", "Gameplay" },
+		{ "Comment", "/** Sound to play each time we fire */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Sound to play each time we fire" },
 	};
@@ -147,6 +150,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_ProjectileClass_MetaData[] = {
 		{ "Category", "Projectile" },
+		{ "Comment", "/** Projectile class to spawn */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Projectile class to spawn" },
 	};
@@ -155,6 +159,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_GunOffset_MetaData[] = {
 		{ "Category", "Gameplay" },
+		{ "Comment", "/** Gun muzzle's offset from the characters location */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Gun muzzle's offset from the characters location" },
 	};
@@ -163,6 +168,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_BaseLookUpRate_MetaData[] = {
 		{ "Category", "Camera" },
+		{ "Comment", "/** Base look up/down rate, in deg/sec. Other scaling may affect final rate. */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Base look up/down rate, in deg/sec. Other scaling may affect final rate." },
 	};
@@ -171,6 +177,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_BaseTurnRate_MetaData[] = {
 		{ "Category", "Camera" },
+		{ "Comment", "/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Base turn rate, in deg/sec. Other scaling may affect final turn rate." },
 	};
@@ -180,6 +187,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_L_MotionController_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "SultusCharacter" },
+		{ "Comment", "/** Motion controller (left hand) */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Motion controller (left hand)" },
@@ -190,6 +198,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_R_MotionController_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "SultusCharacter" },
+		{ "Comment", "/** Motion controller (right hand) */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Motion controller (right hand)" },
@@ -200,6 +209,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_FirstPersonCameraComponent_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** First person camera */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "First person camera" },
@@ -209,6 +219,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_VR_MuzzleLocation_MetaData[] = {
 		{ "Category", "Mesh" },
+		{ "Comment", "/** Location on VR gun mesh where projectiles should spawn. */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Location on VR gun mesh where projectiles should spawn." },
@@ -218,6 +229,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_VR_Gun_MetaData[] = {
 		{ "Category", "Mesh" },
+		{ "Comment", "/** Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun) */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Gun mesh: VR view (attached to the VR controller directly, no arm, just the actual gun)" },
@@ -227,6 +239,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_FP_MuzzleLocation_MetaData[] = {
 		{ "Category", "Mesh" },
+		{ "Comment", "/** Location on gun mesh where projectiles should spawn. */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Location on gun mesh where projectiles should spawn." },
@@ -236,6 +249,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_FP_Gun_MetaData[] = {
 		{ "Category", "Mesh" },
+		{ "Comment", "/** Gun mesh: 1st person view (seen only by self) */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Gun mesh: 1st person view (seen only by self)" },
@@ -245,6 +259,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASultusCharacter_Statics::NewProp_Mesh1P_MetaData[] = {
 		{ "Category", "Mesh" },
+		{ "Comment", "/** Pawn mesh: 1st person view (arms; seen only by self) */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "SultusCharacter.h" },
 		{ "ToolTip", "Pawn mesh: 1st person view (arms; seen only by self)" },
@@ -295,7 +310,7 @@ void EmptyLinkFunctionForGeneratedCodeSultusCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASultusCharacter, 538497913);
+	IMPLEMENT_CLASS(ASultusCharacter, 1950465976);
 	template<> SULTUS_API UClass* StaticClass<ASultusCharacter>()
 	{
 		return ASultusCharacter::StaticClass();

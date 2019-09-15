@@ -47,7 +47,7 @@ void EmptyLinkFunctionForGeneratedCodeAttributeSet_Base() {}
 		{ "ModuleRelativePath", "Public/AttributeSet_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::FuncParams = { (UObject*(*)())Z_Construct_UPackage__Script_Sultus, nullptr, "OnManaChangeDelegate__DelegateSignature", sizeof(_Script_Sultus_eventOnManaChangeDelegate_Parms), Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00130000, 0, 0, METADATA_PARAMS(Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::FuncParams = { (UObject*(*)())Z_Construct_UPackage__Script_Sultus, nullptr, "OnManaChangeDelegate__DelegateSignature", nullptr, nullptr, sizeof(_Script_Sultus_eventOnManaChangeDelegate_Parms), Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00130000, 0, 0, METADATA_PARAMS(Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UDelegateFunction_Sultus_OnManaChangeDelegate__DelegateSignature()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -80,10 +80,11 @@ void EmptyLinkFunctionForGeneratedCodeAttributeSet_Base() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "ModuleRelativePath", "Public/AttributeSet_Base.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::FuncParams = { (UObject*(*)())Z_Construct_UPackage__Script_Sultus, nullptr, "OnHealthChangeDelegate__DelegateSignature", sizeof(_Script_Sultus_eventOnHealthChangeDelegate_Parms), Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00130000, 0, 0, METADATA_PARAMS(Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::FuncParams = { (UObject*(*)())Z_Construct_UPackage__Script_Sultus, nullptr, "OnHealthChangeDelegate__DelegateSignature", nullptr, nullptr, sizeof(_Script_Sultus_eventOnHealthChangeDelegate_Parms), Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00130000, 0, 0, METADATA_PARAMS(Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UDelegateFunction_Sultus_OnHealthChangeDelegate__DelegateSignature()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -197,7 +198,7 @@ void EmptyLinkFunctionForGeneratedCodeAttributeSet_Base() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UAttributeSet_Base, 294929212);
+	IMPLEMENT_CLASS(UAttributeSet_Base, 900158153);
 	template<> SULTUS_API UClass* StaticClass<UAttributeSet_Base>()
 	{
 		return UAttributeSet_Base::StaticClass();
