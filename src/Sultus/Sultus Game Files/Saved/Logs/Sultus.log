@@ -1401,3 +1401,1362 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.22-19.05.07:688][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1001
 [2019.09.22-19.05.08:736][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 991
 [2019.09.22-19.05.09:200][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 981
+[2019.09.22-19.05.13:200][780]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 971
+[2019.09.22-19.05.14:031][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 961
+[2019.09.22-19.05.15:494][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 951
+[2019.09.22-19.05.17:866][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 941
+[2019.09.22-19.05.19:197][117]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 931
+[2019.09.22-19.05.20:578][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 921
+[2019.09.22-19.05.24:710][426]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 911
+[2019.09.22-19.05.25:148][452]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 901
+[2019.09.22-19.05.29:870][717]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 891
+[2019.09.22-19.05.30:466][749]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 881
+[2019.09.22-19.05.30:839][769]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 871
+[2019.09.22-19.05.33:929][946]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 861
+[2019.09.22-19.05.35:018][  5]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 851
+[2019.09.22-19.05.35:027][  6]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 841
+[2019.09.22-19.05.37:408][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 831
+[2019.09.22-19.05.38:971][230]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 821
+[2019.09.22-19.05.40:615][306]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 811
+[2019.09.22-19.05.41:760][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 801
+[2019.09.22-19.05.42:126][391]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 791
+[2019.09.22-19.05.46:636][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 781
+[2019.09.22-19.05.47:269][665]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 771
+[2019.09.22-19.05.48:920][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 761
+[2019.09.22-19.05.50:757][806]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 751
+[2019.09.22-19.05.56:395][ 50]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 741
+[2019.09.22-19.05.57:501][108]Cmd: POLY SELECT ALL
+[2019.09.22-19.05.57:803][108]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 731
+[2019.09.22-19.06.00:078][227]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 721
+[2019.09.22-19.06.22:650][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.06.29:619][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 711
+[2019.09.22-19.06.36:708][  9]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 701
+[2019.09.22-19.06.39:542][169]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 691
+[2019.09.22-19.06.51:732][717]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 681
+[2019.09.22-19.06.55:442][861]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 671
+[2019.09.22-19.07.01:921][ 71]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 661
+[2019.09.22-19.07.02:272][ 71]LogSlate: Window 'New Level' being destroyed
+[2019.09.22-19.07.02:353][ 71]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.22-19.07.02:409][ 71]LightingResults: New page: Lighting Build
+[2019.09.22-19.07.02:410][ 71]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.09.22-19.07.02:411][ 71]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.07.02:416][ 71]MapCheck: New page: Map Check
+[2019.09.22-19.07.02:416][ 71]LightingResults: New page: Lighting Build
+[2019.09.22-19.07.02:572][ 71]LogUObjectHash: Compacting FUObjectHashTables data took  12.14ms
+[2019.09.22-19.07.02:752][ 71]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.22-19.07.02:773][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.22-19.07.02:845][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2019.09.22-19.07.02:858][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.22-19.07.02:859][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2019.09.22-19.07.02:859][ 71]LogFileHelpers: Loading map 'Template_Default' took 0.507
+[2019.09.22-19.07.08:506][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 651
+[2019.09.22-19.07.14:588][695]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.07.15:394][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.07.16:487][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 641
+[2019.09.22-19.07.17:191][805]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.07.34:391][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 631
+[2019.09.22-19.07.38:030][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 621
+[2019.09.22-19.07.41:002][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 611
+[2019.09.22-19.07.47:675][274]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 601
+[2019.09.22-19.07.51:821][274]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 591
+[2019.09.22-19.07.55:248][274]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 581
+[2019.09.22-19.08.07:487][274]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 571
+[2019.09.22-19.08.08:678][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 561
+[2019.09.22-19.08.24:206][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 551
+[2019.09.22-19.08.27:377][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 541
+[2019.09.22-19.08.27:487][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 531
+[2019.09.22-19.08.31:099][274]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 521
+[2019.09.22-19.08.34:767][274]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.22-19.08.35:129][274]LogUObjectHash: Compacting FUObjectHashTables data took  11.38ms
+[2019.09.22-19.08.35:331][274]LogFileHelpers: Saving map 'Hub' took 0.000
+[2019.09.22-19.08.44:064][274]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 511
+[2019.09.22-19.08.48:437][274]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 501
+[2019.09.22-19.08.52:403][274]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 491
+[2019.09.22-19.08.52:403][274]LogSlate: Window 'Message' being destroyed
+[2019.09.22-19.08.52:445][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.22-19.08.52:617][274]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2019.09.22-19.08.53:269][274]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub9589613644753163B496C99728778B69.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap'
+[2019.09.22-19.08.53:830][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub_BuiltData" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset" SILENT=true
+[2019.09.22-19.08.53:871][274]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_BuiltData920BDADE49B7BABED590E2A478DE325A.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset'
+[2019.09.22-19.08.54:216][274]LogFileHelpers: Saving map 'Hub' took 19.367
+[2019.09.22-19.08.54:218][274]Cmd: MAP LOAD FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.22-19.08.54:256][274]LightingResults: New page: Lighting Build
+[2019.09.22-19.08.54:257][274]LoadErrors: New page: Loading map: Hub.umap
+[2019.09.22-19.08.54:257][274]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.08.54:259][274]MapCheck: New page: Map Check
+[2019.09.22-19.08.54:259][274]LightingResults: New page: Lighting Build
+[2019.09.22-19.08.54:331][274]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.09.22-19.08.54:356][274]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.08.54:365][274]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.22-19.08.54:458][274]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2019.09.22-19.08.54:530][274]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.22-19.08.54:530][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2019.09.22-19.08.54:531][274]LogFileHelpers: Loading map 'Hub' took 0.314
+[2019.09.22-19.09.00:836][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 481
+[2019.09.22-19.09.13:684][357]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 471
+[2019.09.22-19.09.21:681][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 461
+[2019.09.22-19.09.24:596][900]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 451
+[2019.09.22-19.09.29:686][157]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 441
+[2019.09.22-19.09.31:165][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 431
+[2019.09.22-19.09.35:134][477]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 421
+[2019.09.22-19.09.36:452][555]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 411
+[2019.09.22-19.09.43:701][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 401
+[2019.09.22-19.09.44:606][ 22]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 391
+[2019.09.22-19.09.45:687][ 81]Cmd: POLY SELECT MEMORY UNION
+[2019.09.22-19.09.47:269][171]Cmd: POLY SELECT ADJACENT WALLS
+[2019.09.22-19.09.49:669][306]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 381
+[2019.09.22-19.09.50:612][360]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 371
+[2019.09.22-19.09.56:632][708]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 361
+[2019.09.22-19.09.58:858][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 351
+[2019.09.22-19.09.58:887][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 341
+[2019.09.22-19.09.59:076][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 331
+[2019.09.22-19.10.04:734][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 321
+[2019.09.22-19.10.06:633][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 311
+[2019.09.22-19.10.11:819][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 301
+[2019.09.22-19.10.12:281][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 291
+[2019.09.22-19.10.17:293][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 281
+[2019.09.22-19.10.18:681][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 271
+[2019.09.22-19.10.18:832][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 261
+[2019.09.22-19.10.19:478][ 18]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 251
+[2019.09.22-19.10.24:564][316]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 241
+[2019.09.22-19.10.27:748][492]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 231
+[2019.09.22-19.10.27:771][493]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 221
+[2019.09.22-19.10.33:955][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 211
+[2019.09.22-19.10.34:610][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2019.09.22-19.10.35:478][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2019.09.22-19.10.41:907][123]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 181
+[2019.09.22-19.10.42:958][171]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2019.09.22-19.10.47:539][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 161
+[2019.09.22-19.10.49:254][484]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 151
+[2019.09.22-19.10.51:800][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 141
+[2019.09.22-19.10.53:445][678]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 131
+[2019.09.22-19.10.56:861][844]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2019.09.22-19.10.59:206][951]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2019.09.22-19.10.59:829][979]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.11.03:558][181]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2019.09.22-19.11.04:716][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 91
+[2019.09.22-19.11.08:950][424]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2019.09.22-19.11.09:017][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2019.09.22-19.11.09:677][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2019.09.22-19.11.15:057][706]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2019.09.22-19.11.17:610][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2019.09.22-19.11.24:795][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.09.22-19.11.25:122][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.09.22-19.11.25:670][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.09.22-19.11.27:509][190]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.09.22-19.11.27:866][207]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.09.22-19.11.29:015][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.22-19.11.29:595][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.09.22-19.11.30:601][294]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.09.22-19.11.30:611][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.09.22-19.11.48:869][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.22-19.11.53:661][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.12.28:508][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.12.59:106][ 43]Cmd: DELETE
+[2019.09.22-19.12.59:106][ 43]Cmd: ACTOR DELETE
+[2019.09.22-19.12.59:706][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.22-19.12.59:774][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.09.22-19.12.59:775][ 43]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2019.09.22-19.13.02:449][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.13.02:547][206]LogActorFactory: Actor Factory created Cube
+[2019.09.22-19.13.06:304][429]LogActorFactory: Actor Factory created Cube
+[2019.09.22-19.13.07:829][513]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.13.13:446][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.14.22:557][708]Cmd: DELETE
+[2019.09.22-19.14.22:557][708]Cmd: ACTOR DELETE
+[2019.09.22-19.14.22:558][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.22-19.14.22:613][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.09.22-19.14.22:615][708]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.09.22-19.14.26:092][907]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-19.14.29:156][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.14.40:703][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.14.47:343][154]Cmd: POLY SELECT MEMORY UNION
+[2019.09.22-19.14.49:480][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.15.08:828][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.15.22:236][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.15.22:302][212]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.15.22:368][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.15.22:371][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.15.22:371][212]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:15:22 AM)
+[2019.09.22-19.15.22:371][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.15.22:378][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007207s)
+[2019.09.22-19.15.22:379][212]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.15.22:379][212]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2019.09.22-19.15.22:380][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.008719s)
+[2019.09.22-19.15.22:445][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.09.22-19.15.22:456][212]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.15.22:467][212]LogInit: FAudioDevice initialized.
+[2019.09.22-19.15.22:482][212]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.15.22:490][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.15.22
+[2019.09.22-19.15.22:490][212]LogWorld: Bringing up level for play took: 0.007395
+[2019.09.22-19.15.22:490][212]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.22-19.15.22:790][212]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.012
+[2019.09.22-19.15.22:790][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.15.42:238][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.15.42:238][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.15.42:238][366]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.15.42:238][366]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.15.42:259][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.15.42:260][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.15.42:317][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.15.42:323][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.09.22-19.15.42:341][367]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.22-19.16.57:648][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.17.31:988][602]LogEditorViewport: Clicking on Actor (LMB): BP_Character_Base_C (BP_Character_Base)
+[2019.09.22-19.17.34:596][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.17.57:879][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.18.06:060][434]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-19.18.33:889][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.18.39:754][364]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.18.39:851][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.09.22-19.18.40:205][364]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_Auto1A1C7A2C04F52CD5E4629CFA82C60866F.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Autosaves/Game/Maps/Hub_Auto1.umap'
+[2019.09.22-19.18.40:211][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.425
+[2019.09.22-19.18.40:211][364]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.425
+[2019.09.22-19.18.46:220][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.18.57:604][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.19.15:282][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.19.49:424][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.19.55:081][650]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-19.20.02:548][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.20.12:580][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.20.28:898][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.20.35:784][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.20.38:673][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.20.58:100][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.21.04:113][692]Cmd: TRANSACTION UNDO
+[2019.09.22-19.21.04:113][692]LogEditorTransaction: Undo Move Actors
+[2019.09.22-19.21.12:614][185]Cmd: EDIT COPY
+[2019.09.22-19.21.12:875][193]Cmd: EDIT PASTE
+[2019.09.22-19.21.22:146][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.21.22:212][738]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.21.22:250][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.22:250][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.21.22:250][738]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:21:22 AM)
+[2019.09.22-19.21.22:250][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.21.22:259][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008841s)
+[2019.09.22-19.21.22:260][738]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.21.22:260][738]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.09.22-19.21.22:260][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.010081s)
+[2019.09.22-19.21.22:313][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.09.22-19.21.22:324][738]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.21.22:336][738]LogInit: FAudioDevice initialized.
+[2019.09.22-19.21.22:348][738]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.21.22:356][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.21.22
+[2019.09.22-19.21.22:357][738]LogWorld: Bringing up level for play took: 0.008131
+[2019.09.22-19.21.22:357][738]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.09.22-19.21.22:373][738]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.43
+[2019.09.22-19.21.22:373][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.25:132][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.25:132][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.21.25:132][899]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.21.25:132][899]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.21.25:149][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.21.25:150][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.25:212][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.21.25:219][899]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.09.22-19.21.25:239][900]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.22-19.21.32:350][309]LogEditorViewport: Clicking on Actor (LMB): BP_Character_Base_C (BP_Character_Base)
+[2019.09.22-19.21.36:216][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.21.36:282][511]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.21.36:320][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.36:320][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.21.36:320][511]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:21:36 AM)
+[2019.09.22-19.21.36:320][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.21.36:330][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009327s)
+[2019.09.22-19.21.36:331][511]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.21.36:331][511]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2019.09.22-19.21.36:331][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.010899s)
+[2019.09.22-19.21.36:385][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.09.22-19.21.36:394][511]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.21.36:406][511]LogInit: FAudioDevice initialized.
+[2019.09.22-19.21.36:413][511]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.21.36:421][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.21.36
+[2019.09.22-19.21.36:421][511]LogWorld: Bringing up level for play took: 0.007202
+[2019.09.22-19.21.36:421][511]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.09.22-19.21.36:431][511]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.371
+[2019.09.22-19.21.36:432][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.38:226][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.38:226][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.21.38:226][614]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.21.38:227][614]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.21.38:240][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.21.38:241][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.21.38:303][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.21.38:311][614]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.09.22-19.21.38:333][615]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.22-19.21.47:115][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.22.06:634][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.22.53:809][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.23.08:528][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.23.10:279][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.22-19.23.16:961][ 56]Cmd: ACTOR SELECT ALL
+[2019.09.22-19.23.36:331][123]Cmd: EDCALLBACK SURFPROPS
+[2019.09.22-19.23.38:718][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.25.29:075][600]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.26.06:028][551]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2019.09.22-19.26.08:311][685]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.26.08:353][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.26.08:353][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.26.08:353][685]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:26:08 AM)
+[2019.09.22-19.26.08:354][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.26.08:365][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011216s)
+[2019.09.22-19.26.08:366][685]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.26.08:366][685]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.09.22-19.26.08:366][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.012568s)
+[2019.09.22-19.26.08:424][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.09.22-19.26.08:436][685]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.26.08:449][685]LogInit: FAudioDevice initialized.
+[2019.09.22-19.26.08:462][685]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.26.08:471][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.26.08
+[2019.09.22-19.26.08:472][685]LogWorld: Bringing up level for play took: 0.008551
+[2019.09.22-19.26.08:472][685]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.09.22-19.26.08:484][685]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.319
+[2019.09.22-19.26.08:485][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.26.10:293][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.26.10:293][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.26.10:293][791]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.26.10:294][791]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.26.10:310][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.26.10:311][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.26.10:375][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.26.10:381][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.09.22-19.26.10:400][792]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.22-19.26.20:025][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.26.38:727][472]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.26.53:854][353]Cmd: ACTOR ALIGN VERTS
+[2019.09.22-19.27.06:067][ 55]LogSlate: Window 'Select Path' being destroyed
+[2019.09.22-19.27.31:546][339]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2019.09.22-19.27.38:503][701]LogSlate: Window 'Tutorials' being destroyed
+[2019.09.22-19.27.55:368][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.27.55:433][700]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.27.55:472][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.27.55:472][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.27.55:472][700]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:27:55 AM)
+[2019.09.22-19.27.55:472][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.27.55:486][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013379s)
+[2019.09.22-19.27.55:487][700]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.27.55:488][700]LogPlayLevel: PIE: World Init took: (0.001960s)
+[2019.09.22-19.27.55:488][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.015652s)
+[2019.09.22-19.27.55:546][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2019.09.22-19.27.55:559][700]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.27.55:570][700]LogInit: FAudioDevice initialized.
+[2019.09.22-19.27.55:585][700]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.27.55:594][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.27.55
+[2019.09.22-19.27.55:594][700]LogWorld: Bringing up level for play took: 0.008515
+[2019.09.22-19.27.55:595][700]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.09.22-19.27.55:606][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub 0.804
+[2019.09.22-19.27.55:607][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.28.03:943][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.28.03:943][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.28.03:943][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.28.03:944][195]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.28.03:959][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.28.03:960][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.28.04:025][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.28.04:031][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.09.22-19.28.04:060][196]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.09.22-19.28.14:028][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.28.29:676][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.28.30:328][734]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2019.09.22-19.28.30:837][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.28.31:409][797]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2019.09.22-19.28.32:403][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.28.33:435][917]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2019.09.22-19.28.44:906][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.28.51:979][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.29.01:529][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.29.02:610][632]Cmd: MAP SETBRUSH CLEARFLAGS=40 SETFLAGS=0
+[2019.09.22-19.29.02:879][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-19.29.05:111][780]Cmd: MAP SENDTO FIRST
+[2019.09.22-19.29.07:899][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.29.07:965][948]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.29.08:003][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.08:003][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.29.08:003][948]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:29:08 AM)
+[2019.09.22-19.29.08:004][948]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.29.08:016][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012787s)
+[2019.09.22-19.29.08:018][948]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.29.08:018][948]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2019.09.22-19.29.08:018][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.014459s)
+[2019.09.22-19.29.08:083][948]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.09.22-19.29.08:095][948]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.29.08:106][948]LogInit: FAudioDevice initialized.
+[2019.09.22-19.29.08:117][948]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.29.08:125][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.29.08
+[2019.09.22-19.29.08:126][948]LogWorld: Bringing up level for play took: 0.008251
+[2019.09.22-19.29.08:126][948]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.09.22-19.29.08:137][948]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.666
+[2019.09.22-19.29.08:137][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.09:790][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.09:790][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.29.09:791][ 45]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.29.09:791][ 45]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.29.09:809][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.29.09:809][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.09:871][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.29.09:878][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.09.22-19.29.09:904][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.22-19.29.14:672][327]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.09.22-19.29.18:062][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.29.22:778][777]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.09.22-19.29.25:001][905]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.09.22-19.29.25:866][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.29.25:932][960]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.29.25:967][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.25:967][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.29.25:967][960]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:29:25 AM)
+[2019.09.22-19.29.25:967][960]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.29.25:976][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008651s)
+[2019.09.22-19.29.25:977][960]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.29.25:977][960]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.09.22-19.29.25:977][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.009728s)
+[2019.09.22-19.29.26:033][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.09.22-19.29.26:043][960]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.29.26:057][960]LogInit: FAudioDevice initialized.
+[2019.09.22-19.29.26:066][960]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.29.26:075][960]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.29.26
+[2019.09.22-19.29.26:075][960]LogWorld: Bringing up level for play took: 0.008377
+[2019.09.22-19.29.26:075][960]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.09.22-19.29.26:085][960]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.717
+[2019.09.22-19.29.26:086][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.32:307][328]LogTemp: Warning: Health is 180.000000
+[2019.09.22-19.29.33:458][397]LogTemp: Warning: Health is 160.000000
+[2019.09.22-19.29.35:451][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.35:451][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.29.35:451][516]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.29.35:451][516]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.29.35:469][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.29.35:469][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.35:531][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.29.35:538][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.09.22-19.29.35:561][517]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.22-19.29.40:372][799]LogEditorViewport: Clicking on Actor (LMB): BP_Character_Base_C (BP_Character_Base)
+[2019.09.22-19.29.45:105][ 60]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.09.22-19.29.52:144][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.29.52:210][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.29.52:254][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.29.52:254][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.29.52:254][466]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:29:52 AM)
+[2019.09.22-19.29.52:254][466]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.29.52:265][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010485s)
+[2019.09.22-19.29.52:265][466]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.29.52:266][466]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2019.09.22-19.29.52:266][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.011528s)
+[2019.09.22-19.29.52:322][466]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.09.22-19.29.52:330][466]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.29.52:339][466]LogInit: FAudioDevice initialized.
+[2019.09.22-19.29.52:347][466]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.29.52:356][466]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.29.52
+[2019.09.22-19.29.52:356][466]LogWorld: Bringing up level for play took: 0.008242
+[2019.09.22-19.29.52:356][466]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.09.22-19.29.52:366][466]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.436
+[2019.09.22-19.29.52:366][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.20:583][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.20:584][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.30.20:584][149]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.30.20:584][149]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.30.20:601][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.30.20:601][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.20:667][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.30.20:672][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.09.22-19.30.20:692][150]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.09.22-19.30.24:893][395]Cmd: EDIT COPY
+[2019.09.22-19.30.25:144][409]Cmd: EDIT PASTE
+[2019.09.22-19.30.42:527][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.30.42:576][426]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.30.42:616][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.42:616][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.30.42:616][426]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:30:42 AM)
+[2019.09.22-19.30.42:616][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.30.42:627][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011004s)
+[2019.09.22-19.30.42:628][426]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.30.42:628][426]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.09.22-19.30.42:628][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.012293s)
+[2019.09.22-19.30.42:685][426]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2019.09.22-19.30.42:697][426]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.30.42:708][426]LogInit: FAudioDevice initialized.
+[2019.09.22-19.30.42:720][426]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.30.42:728][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.30.42
+[2019.09.22-19.30.42:729][426]LogWorld: Bringing up level for play took: 0.007931
+[2019.09.22-19.30.42:729][426]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.09.22-19.30.42:739][426]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.064
+[2019.09.22-19.30.42:739][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.56:610][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.56:611][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.30.56:611][254]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.30.56:611][254]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.30.56:627][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.30.56:627][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.30.56:693][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.30.56:697][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.09.22-19.30.56:728][255]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.09.22-19.31.05:983][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.31.13:944][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.31.17:908][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.31.26:442][  0]Cmd: EDIT COPY
+[2019.09.22-19.31.26:682][ 11]Cmd: EDIT PASTE
+[2019.09.22-19.31.27:732][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.31.35:362][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: request failed, libcurl error: 0 (No error)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.238.255) port 443 (#13))
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 7 (Closing connection 13)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: 00000248D8FFF100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-19.31.41:376][870]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-19.32.04:534][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.32.50:645][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.32.53:723][139]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-19.32.56:224][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.33.28:802][203]Cmd: EDIT COPY
+[2019.09.22-19.33.29:039][215]Cmd: EDIT PASTE
+[2019.09.22-19.33.41:440][939]Cmd: TRANSACTION UNDO
+[2019.09.22-19.33.41:440][939]LogEditorTransaction: Undo Move Actors
+[2019.09.22-19.33.41:742][952]Cmd: TRANSACTION UNDO
+[2019.09.22-19.33.41:743][952]LogEditorTransaction: Undo Paste
+[2019.09.22-19.33.55:316][749]Cmd: EDIT COPY
+[2019.09.22-19.33.55:488][757]Cmd: EDIT PASTE
+[2019.09.22-19.34.07:188][433]Cmd: EDIT COPY
+[2019.09.22-19.34.07:384][444]Cmd: EDIT PASTE
+[2019.09.22-19.34.25:256][281]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.34.31:080][615]Cmd: EDIT COPY
+[2019.09.22-19.34.31:286][627]Cmd: EDIT PASTE
+[2019.09.22-19.34.39:235][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.35.12:179][ 48]Cmd: TRANSACTION UNDO
+[2019.09.22-19.35.12:179][ 48]LogEditorTransaction: Undo Set Rotation
+[2019.09.22-19.35.32:881][268]Cmd: EDIT COPY
+[2019.09.22-19.35.33:098][280]Cmd: EDIT PASTE
+[2019.09.22-19.35.36:608][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.36.41:130][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.36.41:197][251]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.36.41:235][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.36.41:235][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.36.41:235][251]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:36:41 AM)
+[2019.09.22-19.36.41:235][251]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.36.41:248][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012411s)
+[2019.09.22-19.36.41:249][251]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.36.41:249][251]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2019.09.22-19.36.41:249][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.013637s)
+[2019.09.22-19.36.41:313][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.09.22-19.36.41:323][251]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.36.41:337][251]LogInit: FAudioDevice initialized.
+[2019.09.22-19.36.41:346][251]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.36.41:355][251]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.36.41
+[2019.09.22-19.36.41:356][251]LogWorld: Bringing up level for play took: 0.009104
+[2019.09.22-19.36.41:356][251]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.09.22-19.36.41:369][251]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub 0.566
+[2019.09.22-19.36.41:369][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.36.59:750][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.36.59:750][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.36.59:750][327]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.36.59:751][327]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.36.59:771][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.36.59:772][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.36.59:844][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.36.59:852][327]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.09.22-19.36.59:885][328]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.09.22-19.37.10:319][945]LogEditorViewport: Clicking Background
+[2019.09.22-19.37.13:305][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.37.15:215][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.37.36:197][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.37.38:753][618]Cmd: EDIT COPY
+[2019.09.22-19.37.39:065][636]Cmd: EDIT PASTE
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: request failed, libcurl error: 0 (No error)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 1 (Re-using existing connection! (#15) with host datarouter.ol.epicgames.com)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.134.23) port 443 (#15))
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 7 (Closing connection 15)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: 0000024908647240: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-19.37.41:255][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-19.37.47:127][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.37.56:746][676]Cmd: TRANSACTION UNDO
+[2019.09.22-19.37.56:746][676]LogEditorTransaction: Undo Select Brush Surface
+[2019.09.22-19.37.57:241][702]Cmd: TRANSACTION UNDO
+[2019.09.22-19.37.57:241][702]LogEditorTransaction: Undo Set Rotation
+[2019.09.22-19.38.03:514][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.39.42:072][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.39.46:336][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.22-19.39.47:816][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.39.51:466][393]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-19.39.54:156][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.40.04:173][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.40.19:874][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.40.40:491][278]Cmd: TRANSACTION UNDO
+[2019.09.22-19.40.40:491][278]LogEditorTransaction: Undo Set Scale
+[2019.09.22-19.40.41:510][333]Cmd: TRANSACTION UNDO
+[2019.09.22-19.40.41:511][333]LogEditorTransaction: Undo Set Scale
+[2019.09.22-19.40.44:146][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.41.05:977][758]Cmd: EDIT COPY
+[2019.09.22-19.41.06:473][786]Cmd: EDIT PASTE
+[2019.09.22-19.41.21:211][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.41.21:277][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.41.21:316][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.41.21:316][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.41.21:316][658]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:41:21 AM)
+[2019.09.22-19.41.21:316][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.41.21:335][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018357s)
+[2019.09.22-19.41.21:335][658]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.41.21:336][658]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2019.09.22-19.41.21:336][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.019790s)
+[2019.09.22-19.41.21:406][658]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.09.22-19.41.21:416][658]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.41.21:428][658]LogInit: FAudioDevice initialized.
+[2019.09.22-19.41.21:437][658]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.41.21:446][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.41.21
+[2019.09.22-19.41.21:446][658]LogWorld: Bringing up level for play took: 0.008369
+[2019.09.22-19.41.21:446][658]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.09.22-19.41.21:456][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub 0.653
+[2019.09.22-19.41.21:457][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.41.42:413][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.41.42:413][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.41.42:413][910]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.41.42:413][910]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.41.42:434][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.41.42:435][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.41.42:504][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.41.42:515][910]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.09.22-19.41.42:547][911]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.09.22-19.42.08:386][426]Cmd: EDIT COPY
+[2019.09.22-19.42.08:569][436]Cmd: EDIT PASTE
+[2019.09.22-19.42.13:735][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.42.32:494][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.42.36:100][ 24]Cmd: TRANSACTION UNDO
+[2019.09.22-19.42.36:100][ 24]LogEditorTransaction: Undo Set Scale
+[2019.09.22-19.42.37:345][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.42.50:070][834]Cmd: EDIT COPY
+[2019.09.22-19.42.50:259][844]Cmd: EDIT PASTE
+[2019.09.22-19.42.55:319][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.43.04:026][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.43.26:409][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.43.36:421][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.43.40:224][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.44.08:335][397]Cmd: EDIT COPY
+[2019.09.22-19.44.08:541][407]Cmd: EDIT PASTE
+[2019.09.22-19.44.45:790][546]Cmd: EDIT COPY
+[2019.09.22-19.44.46:014][558]Cmd: EDIT PASTE
+[2019.09.22-19.45.37:507][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.45.53:393][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.45.55:430][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.46.15:971][775]Cmd: EDIT COPY
+[2019.09.22-19.46.16:165][786]Cmd: EDIT PASTE
+[2019.09.22-19.46.23:866][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.47.33:537][866]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.47.38:250][124]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.47.38:324][124]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2019.09.22-19.47.38:873][124]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_Auto2219DCE7A47C46AD7AEDC678F3CA37A6D.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Autosaves/Game/Maps/Hub_Auto2.umap'
+[2019.09.22-19.47.38:880][124]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.615
+[2019.09.22-19.47.38:880][124]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.615
+[2019.09.22-19.48.17:255][379]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.48.18:508][453]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.48.18:604][453]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.48.18:623][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.22-19.48.18:682][453]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.09.22-19.48.19:246][453]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub62021551486887F93168E9AAECC8DB4F.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap'
+[2019.09.22-19.48.19:425][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub_BuiltData" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset" SILENT=true
+[2019.09.22-19.48.19:457][453]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_BuiltData55AB23804EB5AA50C43610B739336703.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset'
+[2019.09.22-19.48.39:019][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.48.51:007][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.49.00:563][477]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.49.02:186][573]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.49.02:279][573]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-19.49.02:296][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.22-19.49.02:379][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.09.22-19.49.02:783][573]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub66954F004E1629E9B12B4F879AC8CAFC.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap'
+[2019.09.22-19.49.02:985][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub_BuiltData" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset" SILENT=true
+[2019.09.22-19.49.03:004][573]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_BuiltDataAAB5A27D4EB9B9C56B2C9F8BAB797873.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset'
+[2019.09.22-19.54.29:065][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.54.38:164][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.55.04:310][354]Cmd: EDIT COPY
+[2019.09.22-19.55.04:535][367]Cmd: EDIT PASTE
+[2019.09.22-19.55.06:585][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.55.13:752][896]Cmd: TRANSACTION UNDO
+[2019.09.22-19.55.13:752][896]LogEditorTransaction: Undo Move Actors
+[2019.09.22-19.56.01:319][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.56.12:600][274]Cmd: EDIT COPY
+[2019.09.22-19.56.12:814][286]Cmd: EDIT PASTE
+[2019.09.22-19.56.21:037][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.56.33:932][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.56.53:220][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.57.08:308][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.57.38:459][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.57.38:525][382]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.57.38:560][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.57.38:560][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.57.38:560][382]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:57:38 AM)
+[2019.09.22-19.57.38:560][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.57.38:580][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020073s)
+[2019.09.22-19.57.38:581][382]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.57.38:582][382]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2019.09.22-19.57.38:582][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.021701s)
+[2019.09.22-19.57.38:633][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.09.22-19.57.38:642][382]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.57.38:652][382]LogInit: FAudioDevice initialized.
+[2019.09.22-19.57.38:665][382]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.57.38:674][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.57.38
+[2019.09.22-19.57.38:674][382]LogWorld: Bringing up level for play took: 0.008489
+[2019.09.22-19.57.38:675][382]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.09.22-19.57.38:685][382]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.118
+[2019.09.22-19.57.38:685][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.58.01:732][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.58.01:732][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.58.01:732][752]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.58.01:732][752]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.58.01:748][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.58.01:749][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.58.01:805][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.58.01:811][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.09.22-19.58.01:835][753]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.09.22-19.59.01:766][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-19.59.01:815][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-19.59.01:850][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.59.01:850][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-19.59.01:851][325]PIE: New page: PIE session: Hub (Sep 22, 2019, 9:59:01 AM)
+[2019.09.22-19.59.01:851][325]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.59.01:871][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019835s)
+[2019.09.22-19.59.01:872][325]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-19.59.01:872][325]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.09.22-19.59.01:872][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.021051s)
+[2019.09.22-19.59.01:924][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.09.22-19.59.01:934][325]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-19.59.01:943][325]LogInit: FAudioDevice initialized.
+[2019.09.22-19.59.01:957][325]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-19.59.01:965][325]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-14.59.01
+[2019.09.22-19.59.01:966][325]LogWorld: Bringing up level for play took: 0.007613
+[2019.09.22-19.59.01:966][325]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.09.22-19.59.01:975][325]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub -0.828
+[2019.09.22-19.59.01:981][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.59.08:961][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.59.08:963][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.59.08:963][738]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-19.59.08:964][738]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-19.59.08:975][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-19.59.08:976][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-19.59.09:032][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-19.59.09:037][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.09.22-19.59.09:065][739]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.09.22-19.59.15:830][133]Cmd: EDIT COPY
+[2019.09.22-19.59.16:019][144]Cmd: EDIT PASTE
+[2019.09.22-20.00.12:786][470]Cmd: EDIT COPY
+[2019.09.22-20.00.12:979][481]Cmd: EDIT PASTE
+[2019.09.22-20.01.05:420][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.01.06:519][603]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-20.02.16:951][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.02.48:249][596]Cmd: EDIT COPY
+[2019.09.22-20.02.48:607][617]Cmd: EDIT PASTE
+[2019.09.22-20.02.51:684][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.03.44:476][550]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2019.09.22-20.03.45:065][550]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_Auto345D97CFD41E7CCB4545D99B2E4FC9DC2.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Autosaves/Game/Maps/Hub_Auto3.umap'
+[2019.09.22-20.03.45:076][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.670
+[2019.09.22-20.03.45:076][550]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.670
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: request failed, libcurl error: 0 (No error)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 1 (Re-using existing connection! (#33) with host datarouter.ol.epicgames.com)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.225.87.80) port 443 (#33))
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 7 (Closing connection 33)
+[2019.09.22-20.16.41:471][883]LogHttp: Warning: 00000249120C0180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-20.16.41:804][884]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-20.31.34:883][121]Cmd: EDIT COPY
+[2019.09.22-20.31.35:087][132]Cmd: EDIT PASTE
+[2019.09.22-20.31.41:947][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.31.51:748][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.31.57:135][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.32.02:405][751]Cmd: EDIT COPY
+[2019.09.22-20.32.02:595][760]Cmd: EDIT PASTE
+[2019.09.22-20.32.06:237][967]Cmd: TRANSACTION UNDO
+[2019.09.22-20.32.06:237][967]LogEditorTransaction: Undo Paste
+[2019.09.22-20.32.07:941][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.32.10:221][198]Cmd: EDIT COPY
+[2019.09.22-20.32.10:459][212]Cmd: EDIT PASTE
+[2019.09.22-20.32.14:911][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.32.47:913][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.32.53:555][746]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.22-20.32.54:599][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.32.57:070][944]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-20.33.00:049][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.33.18:516][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.33.34:262][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.33.41:872][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.33.46:495][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.34.00:587][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.34.48:692][560]Cmd: EDIT COPY
+[2019.09.22-20.34.52:536][772]Cmd: TRANSACTION UNDO
+[2019.09.22-20.34.52:536][772]LogEditorTransaction: Undo Move Actors
+[2019.09.22-20.34.55:081][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.35.24:960][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.35.30:371][ 27]Cmd: EDIT COPY
+[2019.09.22-20.35.30:583][ 38]Cmd: EDIT PASTE
+[2019.09.22-20.35.40:061][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.36.19:184][892]Cmd: EDIT COPY
+[2019.09.22-20.36.19:397][904]Cmd: EDIT PASTE
+[2019.09.22-20.36.26:975][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.36.44:690][390]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-20.37.07:396][676]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.07:396][676]LogEditorTransaction: Undo Move Actors
+[2019.09.22-20.37.07:835][695]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.07:835][695]LogEditorTransaction: Undo Move Actors
+[2019.09.22-20.37.08:771][746]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.08:771][746]LogEditorTransaction: Undo Move Actors
+[2019.09.22-20.37.09:191][766]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.09:192][766]LogEditorTransaction: Undo Select Brush Surface
+[2019.09.22-20.37.09:980][810]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.09:980][810]LogEditorTransaction: Undo Select Brush Surface
+[2019.09.22-20.37.11:884][920]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.11:884][920]LogEditorTransaction: Undo Select Brush Surface
+[2019.09.22-20.37.12:585][959]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.12:585][959]LogEditorTransaction: Undo Rename Actor
+[2019.09.22-20.37.13:049][986]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.13:049][986]LogEditorTransaction: Undo Clicking on Actors
+[2019.09.22-20.37.14:092][ 47]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.14:092][ 47]LogEditorTransaction: Undo Rename Actor
+[2019.09.22-20.37.14:520][ 72]Cmd: TRANSACTION UNDO
+[2019.09.22-20.37.14:520][ 72]LogEditorTransaction: Undo Move Actors
+[2019.09.22-20.37.18:742][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.37.48:189][ 63]Cmd: EDIT COPY
+[2019.09.22-20.37.48:588][ 86]Cmd: EDIT PASTE
+[2019.09.22-20.37.50:149][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.38.09:276][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.38.09:324][296]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-20.38.09:358][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.09:359][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-20.38.09:359][296]PIE: New page: PIE session: Hub (Sep 22, 2019, 10:38:09 AM)
+[2019.09.22-20.38.09:359][296]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-20.38.09:384][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025217s)
+[2019.09.22-20.38.09:385][296]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-20.38.09:385][296]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2019.09.22-20.38.09:385][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.026357s)
+[2019.09.22-20.38.09:458][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.09.22-20.38.09:472][296]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-20.38.09:484][296]LogInit: FAudioDevice initialized.
+[2019.09.22-20.38.09:492][296]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-20.38.09:504][296]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-15.38.09
+[2019.09.22-20.38.09:504][296]LogWorld: Bringing up level for play took: 0.010880
+[2019.09.22-20.38.09:504][296]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.09.22-20.38.09:515][296]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub 0.712
+[2019.09.22-20.38.09:521][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.21:780][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.21:781][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-20.38.21:781][ 23]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-20.38.21:781][ 23]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-20.38.21:797][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-20.38.21:797][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.21:860][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-20.38.21:866][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.09.22-20.38.21:892][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.09.22-20.38.37:420][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.38.37:487][954]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-20.38.37:525][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.37:526][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-20.38.37:526][954]PIE: New page: PIE session: Hub (Sep 22, 2019, 10:38:37 AM)
+[2019.09.22-20.38.37:526][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-20.38.37:551][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024717s)
+[2019.09.22-20.38.37:552][954]LogAIModule: Creating AISystem for world Hub
+[2019.09.22-20.38.37:553][954]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2019.09.22-20.38.37:553][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.026084s)
+[2019.09.22-20.38.37:607][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.09.22-20.38.37:616][954]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.22-20.38.37:625][954]LogInit: FAudioDevice initialized.
+[2019.09.22-20.38.37:637][954]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.22-20.38.37:645][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 60) at 2019.09.22-15.38.37
+[2019.09.22-20.38.37:646][954]LogWorld: Bringing up level for play took: 0.008064
+[2019.09.22-20.38.37:646][954]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.09.22-20.38.37:656][954]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hub 0.853
+[2019.09.22-20.38.37:657][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.44:248][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.44:248][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-20.38.44:248][339]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2019.09.22-20.38.44:248][339]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-20.38.44:262][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-20.38.44:263][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hub.Hub:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hub.Hub:PersistentLevel.Hub' with GeneratedClass '/Game/Maps/Hub.Hub_C' with ClassGeneratedBy '/Game/Maps/Hub.Hub:PersistentLevel.Hub'
+[2019.09.22-20.38.44:321][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-20.38.44:330][339]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.09.22-20.38.44:356][340]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.09.22-20.39.12:244][976]Cmd: EDIT COPY
+[2019.09.22-20.39.12:667][  1]Cmd: EDIT PASTE
+[2019.09.22-20.39.29:558][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-20.39.41:631][694]Cmd: EDIT COPY
+[2019.09.22-20.39.41:832][703]Cmd: EDIT PASTE
+[2019.09.22-20.40.20:080][898]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-20.40.22:734][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-20.40.22:815][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-20.40.22:830][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.22-20.40.22:888][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.09.22-20.40.23:369][ 56]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/HubEFBF250C4D915DB42CF45AA3465C0A73.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap'
+[2019.09.22-20.40.23:515][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub_BuiltData" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset" SILENT=true
+[2019.09.22-20.40.23:540][ 56]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_BuiltData54FE597043FD87A0ED28808A90F11022.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset'
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: request failed, libcurl error: 0 (No error)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 1 (Re-using existing connection! (#46) with host datarouter.ol.epicgames.com)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.48.131) port 443 (#46))
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 7 (Closing connection 46)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: 00000248EC0F6E80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-20.44.41:460][891]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 1 (Re-using existing connection! (#51) with host datarouter.ol.epicgames.com)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.224.96.69) port 443 (#51))
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: 00000249016A4E00: libcurl info message cache 7 (Closing connection 51)
+[2019.09.22-20.55.41:625][857]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-20.59.55:701][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-21.00.04:291][547]Cmd: TRANSACTION UNDO
+[2019.09.22-21.00.04:292][547]LogEditorTransaction: Undo Create Folder
+[2019.09.22-21.00.44:938][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.09.22-21.00.44:941][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.100
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: request failed, libcurl error: 0 (No error)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 1 (Re-using existing connection! (#55) with host datarouter.ol.epicgames.com)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.134.163) port 443 (#55))
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 7 (Closing connection 55)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: 00000249148EBB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-21.05.41:546][441]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-21.10.45:380][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.22-21.10.45:380][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.060
+[2019.09.22-21.13.41:391][871]LogHttp: Warning: 0000024916373EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-21.13.41:391][871]LogHttp: Warning: 0000024916373EC0: request failed, libcurl error: 0 (No error)
+[2019.09.22-21.13.41:391][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-21.13.41:391][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 1 (Re-using existing connection! (#58) with host datarouter.ol.epicgames.com)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.175.157.122) port 443 (#58))
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 7 (Closing connection 58)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: 0000024916373EC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-21.13.41:392][871]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-21.20.45:889][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.09.22-21.20.45:890][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.055
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: request failed, libcurl error: 0 (No error)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x248323d3f70 [can pipeline])
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.61.121) port 443 (#61))
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 7 (Closing connection 61)
+[2019.09.22-21.21.41:477][302]LogHttp: Warning: 0000024916370400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-21.21.41:813][303]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-21.30.46:362][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.09.22-21.30.46:362][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hub' took 0.056
+[2019.09.22-21.34.59:314][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-21.35.01:092][495]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.22-21.35.05:745][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-21.35.42:956][920]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-21.36.36:196][ 43]Cmd: TRANSACTION UNDO
+[2019.09.22-21.36.36:196][ 43]LogEditorTransaction: Undo Move Actors
+[2019.09.22-21.36.37:095][ 91]Cmd: EDIT COPY
+[2019.09.22-21.36.37:452][112]Cmd: EDIT PASTE
+[2019.09.22-21.37.08:633][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-21.37.27:597][ 44]Cmd: EDIT COPY
+[2019.09.22-21.37.27:803][ 56]Cmd: EDIT PASTE
+[2019.09.22-21.37.51:856][194]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-21.37.54:936][355]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-21.37.59:693][640]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-21.37.59:773][640]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-21.37.59:787][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.22-21.37.59:845][640]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.09.22-21.38.00:294][640]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/HubBF3A225A4BDB519079CDE29F4F2141E6.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub.umap'
+[2019.09.22-21.38.00:424][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub_BuiltData" FILE="C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset" SILENT=true
+[2019.09.22-21.38.00:445][640]LogSavePackage: Moving 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Saved/Hub_BuiltData413BF8EA491EEC5212B5508E5353D452.tmp' to 'C:/Users/jeann/Documents/GitHub/sultus/src/Sultus/Sultus Game Files/Content/Maps/Hub_BuiltData.uasset'
+[2019.09.22-21.38.02:236][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.09.22-21.38.02:724][734]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.02:867][734]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.02:988][734]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.03:095][734]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.22-21.38.03:095][734]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.03:187][734]LogSlate: Window 'Sultus - Unreal Editor' being destroyed
+[2019.09.22-21.38.03:359][735]Cmd: QUIT_EDITOR
+[2019.09.22-21.38.03:879][735]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.22-21.38.03:897][735]LogExit: Preparing to exit.
+[2019.09.22-21.38.04:589][735]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:595][735]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:599][735]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:604][735]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:609][735]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:613][735]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:723][735]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-21.38.04:724][735]LogExit: Editor shut down
+[2019.09.22-21.38.04:725][735]LogExit: Transaction tracking system shut down
+[2019.09.22-21.38.04:745][735]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.09.22-21.38.05:496][735]LogExit: Object subsystem successfully closed.
+[2019.09.22-21.38.05:526][735]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.22-21.38.05:544][735]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (686)
+[2019.09.22-21.38.05:544][735]LogModuleManager: Shutting down and abandoning module NewLevelDialog (684)
+[2019.09.22-21.38.05:544][735]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (682)
+[2019.09.22-21.38.05:544][735]LogModuleManager: Shutting down and abandoning module Voice (680)
+[2019.09.22-21.38.05:559][735]LogModuleManager: Shutting down and abandoning module BlueprintGraph (678)
+[2019.09.22-21.38.05:559][735]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (676)
+[2019.09.22-21.38.05:559][735]LogModuleManager: Shutting down and abandoning module SceneOutliner (674)
+[2019.09.22-21.38.05:559][735]LogModuleManager: Shutting down and abandoning module AddContentDialog (672)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module WidgetCarousel (671)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module EditorWidgets (668)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module CollectionManager (666)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module MeshBuilder (664)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module StatsViewer (662)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (660)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module FoliageEdit (658)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module LandscapeEditor (656)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module MeshPaintMode (654)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (652)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module ActorPickerMode (650)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module GeometryMode (648)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module TextureAlignMode (646)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module BspMode (644)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (642)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (640)
+[2019.09.22-21.38.05:571][735]LogModuleManager: Shutting down and abandoning module AutomationWorker (638)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module OculusMR (636)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (634)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (632)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (630)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module PlacementMode (629)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MaterialEditor (628)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (624)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (622)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (620)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (618)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (616)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module WebMMedia (614)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (612)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (610)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module SequenceRecorder (609)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (606)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (604)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (602)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (600)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (598)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (596)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (594)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (592)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (590)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (588)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (586)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module CharacterAI (584)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module SmartSnapping (582)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module SessionServices (580)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module MeshPaint (578)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module ViewportSnapping (576)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module ViewportInteraction (574)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module ClothPainter (572)
+[2019.09.22-21.38.05:572][735]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (571)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module LogVisualizer (568)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module IntroTutorials (566)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (565)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (562)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (560)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (558)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (556)
+[2019.09.22-21.38.05:573][735]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (555)
+[2019.09.22-21.38.06:455][735]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (552)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (550)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (548)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (546)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (544)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module InputBindingEditor (542)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module MergeActors (540)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (538)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module LocalizationService (537)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module HardwareTargeting (534)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (532)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module UndoHistory (530)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module XmlParser (528)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module Blutility (526)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (524)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (523)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (520)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module SettingsEditor (518)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module ProjectLauncher (516)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module SessionFrontend (514)
+[2019.09.22-21.38.06:456][735]LogModuleManager: Shutting down and abandoning module ProfilerClient (512)
+[2019.09.22-21.38.06:457][735]LogModuleManager: Shutting down and abandoning module DeviceManager (510)
+[2019.09.22-21.38.06:457][735]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (509)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module AutomationController (506)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module AutomationWindow (504)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module Layers (502)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (500)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module DetailCustomizations (498)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module PackagesDialog (496)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (494)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module Persona (492)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (491)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module AnimGraph (489)
+[2019.09.22-21.38.06:499][735]LogModuleManager: Shutting down and abandoning module Kismet (486)
+[2019.09.22-21.38.06:511][735]LogModuleManager: Shutting down and abandoning module KismetWidgets (485)
+[2019.09.22-21.38.06:511][735]LogModuleManager: Shutting down and abandoning module GraphEditor (482)
+[2019.09.22-21.38.06:511][735]LogModuleManager: Shutting down and abandoning module StructViewer (480)
+[2019.09.22-21.38.06:511][735]LogModuleManager: Shutting down and abandoning module ClassViewer (478)
+[2019.09.22-21.38.06:513][735]LogModuleManager: Shutting down and abandoning module Toolbox (476)
+[2019.09.22-21.38.06:513][735]LogModuleManager: Shutting down and abandoning module ModuleUI (474)
+[2019.09.22-21.38.06:513][735]LogModuleManager: Shutting down and abandoning module MovieSceneTools (472)
+[2019.09.22-21.38.06:513][735]LogModuleManager: Shutting down and abandoning module OutputLog (470)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module GammaUI (468)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module Documentation (466)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module LiveCoding (464)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module LevelSequence (462)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (460)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module MovieScene (458)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (456)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module LauncherPlatform (454)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module AnalyticsET (452)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module PortalServices (450)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module PortalRpc (448)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module MessagingRpc (446)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module AIModule (444)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module AITestSuite (443)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module NavigationSystem (441)
+[2019.09.22-21.38.06:515][735]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2019.09.22-21.38.06:519][735]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2019.09.22-21.38.06:533][735]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2019.09.22-21.38.06:533][735]LogModuleManager: Shutting down and abandoning module ScreenshotTools (432)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module SteamVRController (430)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (428)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (426)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module OculusEditor (424)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module OculusInput (422)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (420)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module EditableMesh (418)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AudioCapture (412)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (410)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (408)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AppleImageUtils (406)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AndroidPermission (404)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (402)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (400)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MediaCompositing (398)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module ImgMedia (396)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (394)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (392)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (390)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module HTML5Networking (388)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (386)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (384)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module BackChannel (382)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (380)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AutomationUtils (378)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AlembicImporter (376)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module AlembicLibrary (375)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module GeometryCache (374)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (373)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module VariantManagerContent (368)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (366)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (364)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module PluginBrowser (362)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (360)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (358)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module CurveEditorTools (356)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module CurveEditor (355)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (352)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module CryptoKeys (350)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (348)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (346)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module UObjectPlugin (344)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (342)
+[2019.09.22-21.38.06:534][735]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (340)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module GitSourceControl (338)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module SourceControl (337)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (334)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (332)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (330)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (328)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (326)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (324)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (322)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module Paper2DEditor (320)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module Sultus (318)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module SignificanceManager (316)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (314)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (312)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (308)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module GameplayAbilitiesEditor (306)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module GameplayAbilities (304)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module GameplayDebugger (303)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2019.09.22-21.38.06:535][735]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2019.09.22-21.38.06:637][735]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2019.09.22-21.38.06:738][735]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2019.09.22-21.38.06:738][735]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2019.09.22-21.38.06:738][735]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2019.09.22-21.38.06:738][735]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2019.09.22-21.38.06:738][735]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2019.09.22-21.38.06:738][735]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2019.09.22-21.38.06:739][735]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2019.09.22-21.38.06:740][735]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2019.09.22-21.38.06:741][735]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2019.09.22-21.38.06:741][735]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.09.22-21.38.06:741][735]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.09.22-21.38.06:742][735]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2019.09.22-21.38.06:744][735]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2019.09.22-21.38.06:744][735]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2019.09.22-21.38.06:744][735]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2019.09.22-21.38.06:744][735]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2019.09.22-21.38.06:744][735]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2019.09.22-21.38.06:745][735]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2019.09.22-21.38.06:748][735]LogDerivedDataCache: Shutdown
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2019.09.22-21.38.06:748][735]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2019.09.22-21.38.06:749][735]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2019.09.22-21.38.06:761][735]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2019.09.22-21.38.06:761][735]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2019.09.22-21.38.06:761][735]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2019.09.22-21.38.06:761][735]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2019.09.22-21.38.06:761][735]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2019.09.22-21.38.06:765][735]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2019.09.22-21.38.06:765][735]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2019.09.22-21.38.06:769][735]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2019.09.22-21.38.06:769][735]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2019.09.22-21.38.06:800][735]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2019.09.22-21.38.06:800][735]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2019.09.22-21.38.06:800][735]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2019.09.22-21.38.06:800][735]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.09.22-21.38.06:801][735]LogHMD: Freeing OpenVRDLLHandle.
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.09.22-21.38.06:801][735]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.09.22-21.38.06:803][735]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.09.22-21.38.06:803][735]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.09.22-21.38.06:807][735]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.09.22-21.38.06:807][735]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.22-21.38.06:807][735]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46DB3ADB-4B93-7142-F239-70AB0A2FB9A0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=432208674babcca283194c95266db5c8%7Cd8c12e872b864f48995c7edbda699266%7C700c77e5-d001-4be8-a759-0beed30d6c29&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.22-21.38.06:811][735]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.09.22-21.38.06:813][735]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2019.09.22-21.38.06:815][735]LogModuleManager: Shutting down and abandoning module Media (53)
+[2019.09.22-21.38.06:815][735]LogModuleManager: Shutting down and abandoning module MagicLeap (50)
+[2019.09.22-21.38.06:815][735]LogModuleManager: Shutting down and abandoning module DatasmithContent (48)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module AISupportModule (46)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module DesktopPlatform (44)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.09.22-21.38.06:816][735]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.09.22-21.38.06:818][735]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.09.22-21.38.06:848][735]LogD3D11RHI: Shutdown
+[2019.09.22-21.38.06:848][735]LogD3D11RHI: CleanupD3DDevice
+[2019.09.22-21.38.06:852][735]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.22-21.38.06:852][735]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.22-21.38.06:852][735]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.22-21.38.07:117][735]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.22-21.38.07:126][735]LogExit: Exiting.
+[2019.09.22-21.38.07:153][735]Log file closed, 09/22/19 16:38:07
