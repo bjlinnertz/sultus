@@ -1,3 +1,5 @@
 C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
 C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Source\Sultus\Public\PlayerController_Base.h
+c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\public\AbilityTypes.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\AbilityTypes.generated.h
 C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\PlayerController_Base.generated.h

@@ -2,4 +2,6 @@ C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game 
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Source\Sultus/Public/PlayerController_Base.h
+c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\public\AbilityTypes.h
+c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\intermediate\build\win64\ue4editor\inc\sultus\AbilityTypes.generated.h
 c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\intermediate\build\win64\ue4editor\inc\sultus\PlayerController_Base.generated.h
