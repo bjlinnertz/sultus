@@ -1,19 +1,17 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\SultusHUD.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusHUD.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\CanvasItem.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\CanvasTypes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CanvasTypes.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
+c:\users\jeann\documents\github\sultus\src\sultus\sultus game files\source\sultus\SultusHUD.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusHUD.generated.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h

@@ -1,14 +1,14 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Source\Sultus/Public/AttributeSet_Base.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\intermediate\build\win64\ue4editor\inc\sultus\AttributeSet_Base.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Source\Sultus/Public/AttributeSet_Base.h
+D:\EpicGames\UE_4.23\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\EpicGames\UE_4.23\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+c:\users\jeann\documents\github\sultus\src\sultus\sultus game files\intermediate\build\win64\ue4editor\inc\sultus\AttributeSet_Base.generated.h

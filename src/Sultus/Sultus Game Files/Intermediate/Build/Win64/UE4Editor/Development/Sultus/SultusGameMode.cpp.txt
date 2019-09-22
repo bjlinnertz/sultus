@@ -1,20 +1,20 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\SultusGameMode.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusGameMode.generated.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\SultusHUD.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusHUD.generated.h
-c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\SultusCharacter.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusCharacter.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
+c:\users\jeann\documents\github\sultus\src\sultus\sultus game files\source\sultus\SultusGameMode.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusGameMode.generated.h
+c:\users\jeann\documents\github\sultus\src\sultus\sultus game files\source\sultus\SultusHUD.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusHUD.generated.h
+c:\users\jeann\documents\github\sultus\src\sultus\sultus game files\source\sultus\SultusCharacter.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\EpicGames\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\EpicGames\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\SultusCharacter.generated.h

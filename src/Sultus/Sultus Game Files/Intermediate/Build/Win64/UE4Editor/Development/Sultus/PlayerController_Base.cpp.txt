@@ -1,3 +1,3 @@
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Source\Sultus\Public\PlayerController_Base.h
-C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\PlayerController_Base.generated.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Definitions.Sultus.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Source\Sultus\Public\PlayerController_Base.h
+C:\Users\jeann\Documents\GitHub\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\PlayerController_Base.generated.h
