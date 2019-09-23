@@ -98,3 +98,9 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\BrainComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BrainComponent.generated.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Source\Sultus\Public\GameplayAbilityBase.h
+c:\users\major\onedrive\documents\unreal projects\sultus\src\sultus\sultus game files\source\sultus\public\AbilityTypes.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\AbilityTypes.generated.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\GameplayAbilityBase.generated.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Source\Sultus\Public\PlayerController_Base.h
+C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Inc\Sultus\PlayerController_Base.generated.h

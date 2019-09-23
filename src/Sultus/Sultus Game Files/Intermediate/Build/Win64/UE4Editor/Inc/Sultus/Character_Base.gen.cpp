@@ -17,14 +17,16 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 	SULTUS_API UClass* Z_Construct_UClass_ACharacter_Base();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_Sultus();
-	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_AcquireAbility();
+	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_AcquireAbilities();
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UGameplayAbility_NoRegister();
+	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_AcquireAbility();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_AddGameplayTag();
 	GAMEPLAYTAGS_API UScriptStruct* Z_Construct_UScriptStruct_FGameplayTag();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_BP_Die();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange();
+	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_HitStun();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_IsOtherHostile();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_OnHealthChange();
 	SULTUS_API UFunction* Z_Construct_UFunction_ACharacter_Base_OnManaChange();
@@ -58,14 +60,52 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 	{
 		UClass* Class = ACharacter_Base::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
+			{ "AcquireAbilities", &ACharacter_Base::execAcquireAbilities },
 			{ "AcquireAbility", &ACharacter_Base::execAcquireAbility },
 			{ "AddGameplayTag", &ACharacter_Base::execAddGameplayTag },
+			{ "HitStun", &ACharacter_Base::execHitStun },
 			{ "IsOtherHostile", &ACharacter_Base::execIsOtherHostile },
 			{ "OnHealthChange", &ACharacter_Base::execOnHealthChange },
 			{ "OnManaChange", &ACharacter_Base::execOnManaChange },
 			{ "RemoveGameplayTag", &ACharacter_Base::execRemoveGameplayTag },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics
+	{
+		struct Character_Base_eventAcquireAbilities_Parms
+		{
+			TArray<TSubclassOf<UGameplayAbility> > AbilityToAquire;
+		};
+		static const UE4CodeGen_Private::FArrayPropertyParams NewProp_AbilityToAquire;
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_AbilityToAquire_Inner;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FArrayPropertyParams Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::NewProp_AbilityToAquire = { "AbilityToAquire", nullptr, (EPropertyFlags)0x0014000000000080, UE4CodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Character_Base_eventAcquireAbilities_Parms, AbilityToAquire), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::NewProp_AbilityToAquire_Inner = { "AbilityToAquire", nullptr, (EPropertyFlags)0x0004000000000000, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, Z_Construct_UClass_UGameplayAbility_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::NewProp_AbilityToAquire,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::NewProp_AbilityToAquire_Inner,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::Function_MetaDataParams[] = {
+		{ "Category", "CharacterBase" },
+		{ "ModuleRelativePath", "Public/Character_Base.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "AcquireAbilities", nullptr, nullptr, sizeof(Character_Base_eventAcquireAbilities_Parms), Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACharacter_Base_AcquireAbilities()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacter_Base_AcquireAbilities_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_ACharacter_Base_AcquireAbility_Statics
 	{
@@ -220,6 +260,39 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACharacter_Base_HitStun_Statics
+	{
+		struct Character_Base_eventHitStun_Parms
+		{
+			float StunDuration;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_StunDuration;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::NewProp_StunDuration = { "StunDuration", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Character_Base_eventHitStun_Parms, StunDuration), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::NewProp_StunDuration,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::Function_MetaDataParams[] = {
+		{ "Category", "CharacterBase" },
+		{ "ModuleRelativePath", "Public/Character_Base.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacter_Base, nullptr, "HitStun", nullptr, nullptr, sizeof(Character_Base_eventHitStun_Parms), Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACharacter_Base_HitStun()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacter_Base_HitStun_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -405,11 +478,13 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_Sultus,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ACharacter_Base_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ACharacter_Base_AcquireAbilities, "AcquireAbilities" }, // 1048144593
 		{ &Z_Construct_UFunction_ACharacter_Base_AcquireAbility, "AcquireAbility" }, // 3856202159
 		{ &Z_Construct_UFunction_ACharacter_Base_AddGameplayTag, "AddGameplayTag" }, // 2967400185
 		{ &Z_Construct_UFunction_ACharacter_Base_BP_Die, "BP_Die" }, // 1749719291
 		{ &Z_Construct_UFunction_ACharacter_Base_BP_OnHealthChange, "BP_OnHealthChange" }, // 15739272
 		{ &Z_Construct_UFunction_ACharacter_Base_BP_OnManaChange, "BP_OnManaChange" }, // 3502558414
+		{ &Z_Construct_UFunction_ACharacter_Base_HitStun, "HitStun" }, // 210155564
 		{ &Z_Construct_UFunction_ACharacter_Base_IsOtherHostile, "IsOtherHostile" }, // 342507752
 		{ &Z_Construct_UFunction_ACharacter_Base_OnHealthChange, "OnHealthChange" }, // 3579144390
 		{ &Z_Construct_UFunction_ACharacter_Base_OnManaChange, "OnManaChange" }, // 1432699972
@@ -480,7 +555,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacter_Base() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACharacter_Base, 2105769371);
+	IMPLEMENT_CLASS(ACharacter_Base, 1607712063);
 	template<> SULTUS_API UClass* StaticClass<ACharacter_Base>()
 	{
 		return ACharacter_Base::StaticClass();

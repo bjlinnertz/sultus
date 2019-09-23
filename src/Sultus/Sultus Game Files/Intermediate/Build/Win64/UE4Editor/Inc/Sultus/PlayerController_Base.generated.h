@@ -8,14 +8,23 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FGameplayAbilityInfo;
 #ifdef SULTUS_PlayerController_Base_generated_h
 #error "PlayerController_Base.generated.h already included, missing '#pragma once' in PlayerController_Base.h"
 #endif
 #define SULTUS_PlayerController_Base_generated_h
 
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_RPC_WRAPPERS
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_INCLASS_NO_PURE_DECLS \
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_RPC_WRAPPERS
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_EVENT_PARMS \
+	struct PlayerController_Base_eventAddAbilityToUI_Parms \
+	{ \
+		FGameplayAbilityInfo AbilityInfo; \
+	};
+
+
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_CALLBACK_WRAPPERS
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlayerController_Base(); \
 	friend struct Z_Construct_UClass_APlayerController_Base_Statics; \
@@ -24,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(APlayerController_Base)
 
 
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_INCLASS \
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesAPlayerController_Base(); \
 	friend struct Z_Construct_UClass_APlayerController_Base_Statics; \
@@ -33,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(APlayerController_Base)
 
 
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_STANDARD_CONSTRUCTORS \
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API APlayerController_Base(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APlayerController_Base) \
@@ -46,7 +55,7 @@ private: \
 public:
 
 
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_ENHANCED_CONSTRUCTORS \
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API APlayerController_Base(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -59,26 +68,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APlayerController_Base); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APlayerController_Base)
 
 
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_PRIVATE_PROPERTY_OFFSET
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_12_PROLOG
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_GENERATED_BODY_LEGACY \
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_PRIVATE_PROPERTY_OFFSET
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_13_PROLOG \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_EVENT_PARMS
+
+
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_PRIVATE_PROPERTY_OFFSET \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_RPC_WRAPPERS \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_INCLASS \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_STANDARD_CONSTRUCTORS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_PRIVATE_PROPERTY_OFFSET \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_RPC_WRAPPERS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_CALLBACK_WRAPPERS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_INCLASS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_GENERATED_BODY \
+#define Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_PRIVATE_PROPERTY_OFFSET \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_INCLASS_NO_PURE_DECLS \
-	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_15_ENHANCED_CONSTRUCTORS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_PRIVATE_PROPERTY_OFFSET \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_CALLBACK_WRAPPERS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_INCLASS_NO_PURE_DECLS \
+	Sultus_Game_Files_Source_Sultus_Public_PlayerController_Base_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

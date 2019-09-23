@@ -10,6 +10,7 @@
 #include "Character_Base.generated.h"
 
 class UAttributeSet_Base;
+class UGameplayAbilityBase;
 UCLASS()
 class SULTUS_API ACharacter_Base : public ACharacter, public IAbilitySystemInterface
 {
@@ -40,6 +41,9 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "CharacterBase")
 		void AcquireAbility(TSubclassOf<UGameplayAbility> AbilityToAcquire);
 
+	UFUNCTION(BlueprintCallable, Category = "CharacterBase")
+		void AcquireAbilities(TArray<TSubclassOf<UGameplayAbility>> AbilityToAquire);
+
 	UFUNCTION(BlueprintCallable, Category = "Character_Base")
 		void OnHealthChange(float Health, float MaxHealth);
 
@@ -68,9 +72,15 @@ public:
 		void RemoveGameplayTag(FGameplayTag TagToRemove);
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Character_Base")
 		FGameplayTag FullHealthTag;
+	UFUNCTION(BlueprintCallable, Category = "CharacterBase")
+		void HitStun(float StunDuration);
 protected:
 	bool IsDead;
 	uint8 TeamID;
 	void AutoDetermineTeamIdByControllerType();
 	void Dead();
+	void DisableInputControl();
+	void EnableInputControl();
+	FTimerHandle StunTimeHandle;
+	void AddAbilityToUI(TSubclassOf<UGameplayAbilityBase> AbilityToAdd);
 };
