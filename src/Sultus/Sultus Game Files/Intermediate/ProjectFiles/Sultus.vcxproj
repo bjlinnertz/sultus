@@ -384,11 +384,15 @@
     <ClInclude Include="..\..\Source\Sultus\SultusHUD.h"/>
     <ClCompile Include="..\..\Source\Sultus\SultusProjectile.cpp"/>
     <ClInclude Include="..\..\Source\Sultus\SultusProjectile.h"/>
+    <ClCompile Include="..\..\Source\Sultus\Private\AbilityTypes.cpp"/>
     <ClCompile Include="..\..\Source\Sultus\Private\AttributeSet_Base.cpp"/>
     <ClCompile Include="..\..\Source\Sultus\Private\Character_Base.cpp"/>
+    <ClCompile Include="..\..\Source\Sultus\Private\GameplayAbilityBase.cpp"/>
     <ClCompile Include="..\..\Source\Sultus\Private\PlayerController_Base.cpp"/>
+    <ClInclude Include="..\..\Source\Sultus\Public\AbilityTypes.h"/>
     <ClInclude Include="..\..\Source\Sultus\Public\AttributeSet_Base.h"/>
     <ClInclude Include="..\..\Source\Sultus\Public\Character_Base.h"/>
+    <ClInclude Include="..\..\Source\Sultus\Public\GameplayAbilityBase.h"/>
     <ClInclude Include="..\..\Source\Sultus\Public\PlayerController_Base.h"/>
   </ItemGroup>
   <PropertyGroup>
