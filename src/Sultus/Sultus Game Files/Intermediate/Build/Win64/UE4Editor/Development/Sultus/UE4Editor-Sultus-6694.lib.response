@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Sultus-6694.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\SultusEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\AttributeSet_Base.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Character_Base.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\GameplayAbilityBase.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\PlayerController_Base.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Sultus.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusCharacter.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusGameMode.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusHUD.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusProjectile.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\AttributeSet_Base.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Character_Base.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\GameplayAbilityBase.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\PlayerController_Base.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Sultus.init.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusCharacter.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusGameMode.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusHUD.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\SultusProjectile.gen.cpp.obj"
+"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\Default.rc2.res"
+/OUT:"C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus-6694.lib"
+/INCLUDE:IMPLEMENT_MODULE_Sultus
