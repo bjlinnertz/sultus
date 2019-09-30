@@ -1,0 +1,12 @@
+﻿  Parsing headers for SultusEditor
+    Running UnrealHeaderTool "C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Sultus.uproject" "C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\SultusEditor\Development\SultusEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SultusEditor in 6.1567166 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-Sultus-0022.lib
+       Creating library C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus-0022.lib and object C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus-0022.exp
+    [2/3] UE4Editor-Sultus-0022.dll
+       Creating library C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus-0022.suppressed.lib and object C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus Game Files\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus-0022.suppressed.exp
+    [3/3] SultusEditor.target
+  Total time in Parallel executor: 1.40 seconds
+  Total execution time: 8.52 seconds

@@ -1,0 +1,30 @@
+﻿  Creating makefile for SultusEditor (.uproject file is newer)
+  Parsing headers for SultusEditor
+    Running UnrealHeaderTool "C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Sultus.uproject" "C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\SultusEditor\Development\SultusEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SultusEditor in 22.4583574 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 20 actions with 12 processes...
+    [1/20] SharedPCH.Engine.cpp
+    [2/20] Sultus.cpp
+    [3/20] Sultus.init.gen.cpp
+    [4/20] PlayerController_Base.cpp
+    [5/20] PlayerController_Base.gen.cpp
+    [6/20] SultusGameMode.gen.cpp
+    [7/20] SultusHUD.cpp
+    [8/20] SultusCharacter.gen.cpp
+    [9/20] SultusGameMode.cpp
+    [10/20] AttributeSet_Base.gen.cpp
+    [11/20] SultusHUD.gen.cpp
+    [12/20] SultusProjectile.gen.cpp
+    [13/20] SultusProjectile.cpp
+    [14/20] SultusCharacter.cpp
+    [15/20] AttributeSet_Base.cpp
+    [16/20] Character_Base.gen.cpp
+    [17/20] Character_Base.cpp
+    [18/20] UE4Editor-Sultus.lib
+       Creating library C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus.lib and object C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus.exp
+    [19/20] UE4Editor-Sultus.dll
+       Creating library C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus.suppressed.lib and object C:\Users\major\OneDrive\Documents\Unreal Projects\sultus\src\Sultus\Sultus\Intermediate\Build\Win64\UE4Editor\Development\Sultus\UE4Editor-Sultus.suppressed.exp
+    [20/20] SultusEditor.target
+  Total time in Parallel executor: 108.50 seconds
+  Total execution time: 139.65 seconds
