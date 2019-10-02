@@ -1097,3 +1097,107 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.02-00.24.27:788][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.02-00.24.27:792][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
 [2019.10.02-00.24.27:836][737]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.02-00.25.22:485][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-00.25.27:439][465]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-00.26.03:324][646]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/Weapons/RangeAttack/GA_RangeAttack.GA_RangeAttack
+[2019.10.02-00.26.34:415][ 46]LogSlate: Window 'GA_RangeAttack' being destroyed
+[2019.10.02-00.26.34:423][ 47]LogRenderer: Reallocating scene render targets to support 1204x544 Format 9 NumSamples 1 (Frame:22905).
+[2019.10.02-00.28.41:948][ 68]LogEditorTransaction: Undo Add Node
+[2019.10.02-00.28.42:673][139]LogEditorTransaction: Undo Edit Value
+[2019.10.02-00.28.52:488][275]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-00.28.52:510][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-00.28.52:510][275]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.02-00.28.52:531][275]LogPlayLevel: [PlayLevel] Compiling BP_Character_Base before play...
+[2019.10.02-00.28.52:531][275]LogPlayLevel: [PlayLevel]   Compiling BP_Enemy as a dependent...
+[2019.10.02-00.28.52:532][275]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacter as a dependent...
+[2019.10.02-00.28.53:039][275]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/BP_Character_BaseEC3EF4C3434886ABEA56C68FB886FB4E.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/BP_Character_Base.uasset'
+[2019.10.02-00.28.53:093][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.10.02-00.28.53:093][275]LogPlayLevel: PlayLevel: Blueprint regeneration took 583 ms (3 blueprints)
+[2019.10.02-00.28.53:093][275]PIE: New page: PIE session: FirstPersonExampleMap (Oct 1, 2019, 2:28:53 PM)
+[2019.10.02-00.28.53:093][275]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-00.28.53:106][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012543s)
+[2019.10.02-00.28.53:108][275]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-00.28.53:108][275]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2019.10.02-00.28.53:108][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014147s)
+[2019.10.02-00.28.53:147][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.02-00.28.53:158][275]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.02-00.28.53:168][275]LogInit: FAudioDevice initialized.
+[2019.10.02-00.28.53:178][275]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.02-00.28.53:185][275]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.01-19.28.53
+[2019.10.02-00.28.53:185][275]LogWorld: Bringing up level for play took: 0.006306
+[2019.10.02-00.28.53:186][275]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.10.02-00.28.53:195][275]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.36
+[2019.10.02-00.28.53:195][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-00.28.53:196][275]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:196][275]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:217][276]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:217][276]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:217][276]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:217][276]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:416][293]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:416][293]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:610][316]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:610][316]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:809][340]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.53:809][340]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:009][364]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:009][364]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:213][382]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:214][382]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:414][406]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:414][406]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:614][430]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:614][430]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:814][454]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.54:814][454]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:013][477]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:013][477]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:213][500]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:214][500]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:252][504]LogTemp: Warning: Health is 160.000000
+[2019.10.02-00.28.55:412][523]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:413][523]LogTemp: Warning: Health is 161.000000
+[2019.10.02-00.28.55:612][547]LogTemp: Warning: Health is 162.000000
+[2019.10.02-00.28.55:612][547]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.55:812][571]LogTemp: Warning: Health is 163.000000
+[2019.10.02-00.28.55:812][571]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.56:012][595]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.56:012][595]LogTemp: Warning: Health is 164.000000
+[2019.10.02-00.28.56:213][619]LogTemp: Warning: Health is 165.000000
+[2019.10.02-00.28.56:213][619]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.56:412][641]LogTemp: Warning: Health is 166.000000
+[2019.10.02-00.28.56:412][641]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.56:611][665]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.56:611][665]LogTemp: Warning: Health is 167.000000
+[2019.10.02-00.28.56:811][689]LogTemp: Warning: Health is 168.000000
+[2019.10.02-00.28.56:811][689]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.57:011][713]LogTemp: Warning: Health is 169.000000
+[2019.10.02-00.28.57:011][713]LogTemp: Warning: Health is 200.000000
+[2019.10.02-00.28.57:029][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-00.28.57:029][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.28.57:029][715]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-00.28.57:029][715]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-00.28.57:036][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-00.28.57:036][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-00.28.57:083][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-00.28.57:088][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.02-00.28.57:128][719]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.02-00.28.58:491][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD73A6F4B-40DC-78C6-A948-44B12F8433A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=2dffd01744f0ccbd1f8004bafd1b1ad2%7Ce7ed87179a2b4740923adbfb633ad371%7C74ccdce1-b5fd-48ab-b2fb-208c8e478d97&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: request failed, libcurl error: 0 (No error)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b18c3eff70 [can pipeline])
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.187.25) port 443 (#13))
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 7 (Closing connection 13)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: 000001B1D0B2EE80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-00.30.07:675][922]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD73A6F4B-40DC-78C6-A948-44B12F8433A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=2dffd01744f0ccbd1f8004bafd1b1ad2%7Ce7ed87179a2b4740923adbfb633ad371%7C74ccdce1-b5fd-48ab-b2fb-208c8e478d97&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-00.32.10:093][850]BlueprintLog: New page: Compile BP_Character_Base
+[2019.10.02-00.32.10:416][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.10.02-00.32.10:710][850]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/BP_Character_Base0BAAC01D48A7610C90AED1B1E6ABA590.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/Blueprints/Character/BP_Character_Base.uasset'
+[2019.10.02-00.32.15:978][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.10.02-00.32.16:247][427]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap2163CC4647CE008341E7B39E09C32567.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.10.02-00.32.16:947][427]LogSavePackage: Moving '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Saved/FirstPersonExampleMap_BuiltData46B4A80E48FE2A2D8043A2AEABAA3E5C.tmp' to '../../../../../../Users/major/OneDrive/Documents/Unreal Projects/sultus/src/Sultus/Sultus Game Files/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
